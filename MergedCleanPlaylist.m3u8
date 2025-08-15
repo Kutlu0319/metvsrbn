@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged2_epg.xml.gz"
-# Last forced update: 2025-08-15T04:47:53.462025Z
+# Last forced update: 2025-08-15T05:39:09.406591Z
 
 #EXTGRP: [HIGHLIGHT]
 #EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://g7w1r.4shares.live/news/fulllham060824.jpg",[1404] Highlights  Fullham vs Sevilla | BLV Bánh Cuốn | 06.08,24
@@ -15562,6 +15562,10 @@ https://hl.eztool.xyz/hls/2light/bda/fullmatch/liver-brig-21124.mp4/playlist.m3u
 https://hl.eztool.xyz/hls/2light/bda/fullmatch/myfull16.mp4/playlist.m3u8
 
 #EXTGRP:[BÚN CHẢ]
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn.rapid-api.icu/football/team/d1d2f78f8bc8a3288bce7e7bb09e0b46.png",12h00 Hubei Yunyang vs Guizhou Rongjiang 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/27506b3234415cbd5e8ec8e4a13c0c6d/playlist.m3u8
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/890aefe502b857ebf5d04030016514b9.webp",20h00 U21 Việt Nam vs U21 Chile [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -15570,6 +15574,16 @@ https://2893950149.global.cdnfastest.com/live/689ddb395bab5_29975.flv?expire=175
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/689ddb395bab5_29975/index.m3u8?expire=1755780537&sign=cd17eb5b05ab53ea6b7b45ba67e882c5
+
+#EXTGRP:[CÁ KÈO]
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="",11h40 United FC Kodagu (W) VS Roots (W) (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/SW0E7qgWHVsWkoabRN2Dlg/Fv2lucGIbhPi2caWYvF5Lg/1755256506254/live/sd-6MvXc3pSidADvSbuis/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/d1d2f78f8bc8a3288bce7e7bb09e0b46.png",12h00 Hubei Shiyan VS Guizhou Rongjiang (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/8GvlK6L0B9DSixH6RVFCIw/Fv2lucGIbhPi2caWYvF5Lg/1755255904443/live/sd-6MvXbmZfT17YzCWjX1/playlist.m3u8
 
 #EXTGRP:[LƯƠNG SƠN]
 #EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1755230973.png",11h00 Paris Saint-Germain vs Tottenham Hotspur (LS) BLV DƯƠNG QUÁ flv
@@ -15580,29 +15594,13 @@ https://flv.cdnokvip.com/live/TEST2.flv?expire=1892296680&sign=1977a4202a07089c0
 https://hls.cdnokvip.com/live/TEST2/index.m3u8?expire=1892296680&sign=1977a4202a07089c09e7170aee5cebb8
 
 #EXTGRP:[⚽🥎Livestream🏆🏅]
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b0ec985cd57cba37048de614c46660e5.png",09h00 Xelaju MC vs Real Esteli (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m101qt/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b0ec985cd57cba37048de614c46660e5.png",09h00 Xelaju MC vs Real Esteli (CKhia) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m101qt/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b0ec985cd57cba37048de614c46660e5.png",09h00 Xelaju MC vs Real Esteli (RK) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m101qt/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn.rapid-api.icu/football/team/dfbac042e43d9c05c8e79fdc26859425.png",09h30 Chachao Vision vs Shanghai Caojing 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/63eaeb3c9afa28d2246fa2a90584cde4/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn.rapid-api.icu/football/team/ccbe6e6790083b6fb221c3ab0a19bae9.png",09h30 Jiangxi Yugan Football Club vs Hohhot Inner Mongolia 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/c9aef8562321bfec735f1d5b1f05b17f/playlist.m3u8
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1755230973.png",11h00 Paris Saint-Germain vs Tottenham Hotspur (LS) BLV DƯƠNG QUÁ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/TEST2/index.m3u8?expire=1892296680&sign=1977a4202a07089c09e7170aee5cebb8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn.rapid-api.icu/football/team/d1d2f78f8bc8a3288bce7e7bb09e0b46.png",12h00 Hubei Yunyang vs Guizhou Rongjiang 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/27506b3234415cbd5e8ec8e4a13c0c6d/playlist.m3u8
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/890aefe502b857ebf5d04030016514b9.webp",20h00 U21 Việt Nam vs U21 Chile [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
