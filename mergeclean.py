@@ -12,7 +12,6 @@ playlist_urls = [
      "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/UDPTV.m3u",
      "https://raw.githubusercontent.com/atakan1983/tvepic/refs/heads/main/mehmet_guncel.m3u",
      "https://raw.githubusercontent.com/atakan1983/vodden/refs/heads/main/vodden.m3u",
-     "https://raw.githubusercontent.com/koprulu5564/rectv/refs/heads/main/rectv_full.m3u"
 ]
 
 UDPTV_URL = "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/UDPTV.m3u"
