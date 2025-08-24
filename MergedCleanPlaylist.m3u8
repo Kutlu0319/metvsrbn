@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged2_epg.xml.gz"
-# Last forced update: 2025-08-24T07:30:06.297448Z
+# Last forced update: 2025-08-24T07:43:45.767291Z
 
 #EXTGRP:1955 ⚡ 1969
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="1955 ⚡ 1969", 12 Kızgın Adam
@@ -6565,7 +6565,7 @@ http://104.238.23.215/iptv_panel/get.php?channel=Channel4720&token=token123
 
 #EXTGRP:__THÔNG BÁO__
 #EXTINF:0 group-title="__THÔNG BÁO__",!!! Link XEM LẠI đã tách sang byvn.net/KHXg
-https://hello#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/d81fb9c5f0a147090f050e3c120c651c.png",13h00 Newcastle Jets vs FC Macarthur [hls]
+https://hello#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/d81fb9c5f0a147090f050e3c120c651c.png",13h00 Newcastle Jets vs FC Macarthur 1 (Bc)
 
 #EXTGRP:Belgesel
 #EXTINF:-1 tvg-id="86" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/9ed6faa15f968198d17c0362658f6b50.jpg" tvg-name="BBC EARTH HD" group-title="Belgesel",BBC EARTH HD
@@ -6665,6 +6665,10 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/68aaa2465bab7_5160.flv?expire=1756617926&sign=9904f5898ab1ca326491b054cb5e1f78
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/d81fb9c5f0a147090f050e3c120c651c.png",13h00 Newcastle Jets vs FC Macarthur [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68aaa2465bab7_5160/index.m3u8?expire=1756617926&sign=9904f5898ab1ca326491b054cb5e1f78
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/335dad7f811f451658b42b2688eef5a9.png",13h15 Caboolture FC vs Brisbane Strikers 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -6745,6 +6749,10 @@ https://live.alilicloud.com/live/8c9c3edb23214525a98a15be7f707a49/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/b127ab2fb7d4f3f32e02a3374e2c1d03/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/6f9bb271af4c364e6c0f363c3d72c1d7.png",14h45 Subiaco AFC (w) vs Fremantle City FC (w) 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/82331ee013f7d875f50783d6b096c153/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/29fce88e5b84b08285533b664cc1ddb9.png",15h00 Guangzhou Dandelion Alpha FC vs Hubei Istar [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -7249,10 +7257,6 @@ https://stream.chuoichien.tv/duyhung/index.m3u8
 https://stream.chuoichien.tv/duyhung.flv
 
 #EXTGRP:CÀ KHỊA
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://static.flashscore.com/res/image/data/C2mllSXg-lrc57pM8.png",12h15 UNSW FC (W) vs Manly Utd (w) (Cà Khịa) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m204nd/playlist.m3u8
 #EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/d81fb9c5f0a147090f050e3c120c651c.png",13h00 Newcastle Jets vs FC Macarthur (Cà Khịa) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -8000,6 +8004,10 @@ https://live.alilicloud.com/live/ff7cd79885dd548a39ccaa5c073a20dc/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/b127ab2fb7d4f3f32e02a3374e2c1d03/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/05ca2e644a83a8d831b08cdfe31d013e/image/small",14h45 Subiaco AFC (w) vs Fremantle City FC (w) (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/82331ee013f7d875f50783d6b096c153/playlist.m3u8
 
 #EXTGRP:KORKU💥ZOMBI
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="KORKU💥ZOMBI", 1. Night of the Living Dead (1968)
