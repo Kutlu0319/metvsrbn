@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged2_epg.xml.gz"
-# Last forced update: 2025-08-24T15:44:02.772939Z
+# Last forced update: 2025-08-24T15:49:57.162971Z
 
 #EXTGRP:1955 ⚡ 1969
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="1955 ⚡ 1969", 12 Kızgın Adam
@@ -6665,10 +6665,10 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/03dbd10dc071abb37f54b994058c746f/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/a28196a8b0372e2ef21ec2bd8f08043d.png",21h00 DFK Dainava Alytus vs Banga Gargzdai 1 (Bc)
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/675b5d38fd28362129438c98f45a4487.png",21h00 Dynamo Moscow B vs Tyumen 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/9dd00712c2dbc2fa7d3b3a897051f686/playlist.m3u8
+https://live.alilicloud.com/live/77084e3f451d5a4b42840f1417c004be/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/a1c0342595abe3aa4a7424097eb733bb.png",21h00 FK Kolomna vs Torpedo Vladimir 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -6693,6 +6693,10 @@ https://live.alilicloud.com/live/dbab8193a5a9069947df07bf7f78eb0c/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/d880b661a7d4d053f9b03db3858ae2e4/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/a6bf2d88b9df986a3ff66c5ae9eae2e3.png",21h30 CSKA Moscow vs Akron Togliatti 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/b8c632793b89c75ef680b87921e08c3c/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/a6bf2d88b9df986a3ff66c5ae9eae2e3.png",21h30 CSKA Moscow vs Akron Togliatti [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -6721,6 +6725,10 @@ https://2893254555.global.cdnfastest.com/live/68ab212c2f363_3207/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/a7b5e1d8e5cd678279ac2fc6093a31a2/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/abd59f62f69ef9f59a8121c3baadd882.png",21h30 FC Famalicao vs Gil Vicente 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/c3210332450193a0b69ae2ef1fcb289d/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/abd59f62f69ef9f59a8121c3baadd882.png",21h30 FC Famalicao vs Gil Vicente [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -6772,7 +6780,7 @@ https://live.alilicloud.com/live/6b71b452b60464f48229f7593098df06/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/c2050b940076df70b2ad0a6103c50df4.png",22h00 CA Osasuna vs Valencia CF 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/9a33270846f1a3ec7e33d3610ba9b372/playlist.m3u8
+https://live.alilicloud.com/livehd/9a33270846f1a3ec7e33d3610ba9b372/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/c2050b940076df70b2ad0a6103c50df4.png",22h00 CA Osasuna vs Valencia CF [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -6813,30 +6821,26 @@ https://live.alilicloud.com/live/6047e8436b7f15ac58d1ada4983e625b/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/8a16fb743b200f643bade87f973cf8fa/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/6a4ed02142f5cb72099ebf8399a488b5.png",22h00 FAP vs FK Loznica 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/27608ddd7f3a26772b3155fe5576683d/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/588619dcd987715b960a2da6967bbb7a.png",22h00 FC Dinamo-Vologda vs Sheksna Cherepovets 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/5989edae8e050766304e95b82a5a80ad/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/e4e73b178c9fc00801c83684b02b6d81.png",22h00 FK Aktobe Lento vs FC Zhetysu Taldykorgan 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/c8af45264961d6c61ee26b01e3453c5d/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/56484f26eac26f8e279ea2172c48632d.png",22h00 Ittihad Alexandria SC vs Bank El Ahly 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/e846a0dea3267759008a899f3a21fced/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/f6b6061e8181c27bcf771835ac901ec8.png",22h00 Kabel Novi Sad vs FK Vrsac 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/85c33a0ed50b3d04d71dd1d1fa79ed08/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/89fe091b9d35d31a31f16c4b233ddd6e.jpg",22h00 KFC Komarno vs Spartak Trnava 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/2dcc29f7d3d01254e3559a0eb1dc4f39/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/46f84f044e7d8fdaad5d75398471ab0d.png",22h00 Metalist 1925 Kharkiv vs Obolon Kyiv 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/b9bf29dfca5ddf7d07ffab9b03dcdd50/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/588008d8109ed548453092a1d89ae229.png",22h00 Rheindorf Altach vs Grazer AK 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/c805633136e42dff4d5f68c9110c2e04/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/cb27ff601a434063f7f62048d3fee66c.png",22h00 S. Joao Ver vs Vitoria Guimaraes B 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -6904,7 +6908,7 @@ https://live.alilicloud.com/live/6c20bc5ff92a8a213373603875336c88/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/89cdadf6cf1eb6f8d2507de1e01f806c.png",22h30 Borussia Monchengladbach vs Hamburger SV 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/a68b8012dfc41d192fc3e4a3d6bc86d5/playlist.m3u8
+https://live.alilicloud.com/livehd/a68b8012dfc41d192fc3e4a3d6bc86d5/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/89cdadf6cf1eb6f8d2507de1e01f806c.png",22h30 Borussia Monchengladbach vs Hamburger SV [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -6920,7 +6924,7 @@ https://live.alilicloud.com/live/3f36b2489d1bff1a60d74f84c50258e1/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/29982511f1ea861967c3e6478d6a8a68.png",22h30 Fulham vs Manchester United 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/livehd/b3b4fb0ddd4e1f7ff46f75dd3463c9ba/playlist.m3u8
+https://live.alilicloud.com/live/b3b4fb0ddd4e1f7ff46f75dd3463c9ba/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/29982511f1ea861967c3e6478d6a8a68.png",22h30 Fulham vs Manchester United [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -7261,34 +7265,6 @@ https://stream.chuoichien.tv/duyhung/index.m3u8
 https://stream.chuoichien.tv/duyhung.flv
 
 #EXTGRP:CÀ KHỊA
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/0b168930b9b0cf269daf08a53170b27a.png",20h30 Club Atletico Progreso vs Danubio FC (Cà Khịa) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m203qt/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (Cà Khịa) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cayhd1/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (Cà Khịa) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (Cà Khịa) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cayhd1.flv
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (Cà Khịa) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@caysd1/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (Cà Khịa) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (Cà Khịa) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@caysd1.flv
 #EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/2194d8f23b8504ac8ca5861a508ecbe3.png",21h00 Al Bataeh vs Khor Fakkan SSC (Cà Khịa) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -7535,34 +7511,6 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cakhiasd1.flv
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lusd1.flv
 
 #EXTGRP:CÁ HEO
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/0b168930b9b0cf269daf08a53170b27a.png",20h30 Club Atletico Progreso vs Danubio FC (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m203qt/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cohd1/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/cohd2/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cohd1.flv
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cosd1/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/cosd2/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cosd1.flv
 #EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/2194d8f23b8504ac8ca5861a508ecbe3.png",21h00 Al Bataeh vs Khor Fakkan SSC (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -7893,34 +7841,6 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m504nd/playlist.m
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m505nd/playlist.m3u8
 
 #EXTGRP:CÁ KÈO
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/0b168930b9b0cf269daf08a53170b27a.png",20h30 Club Atletico Progreso VS Danubio FC (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/m-b7kCYKioonHxqkx5qX6g/Fv2lucGIbhPi2caWYvF5Lg/1756064106412/live/sd-6MvXbt5fSf1KgMSQzX/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/B4YVzcsCoSIMgB0STnP0YQ/Fv2lucGIbhPi2caWYvF5Lg/1756068307615/live/sd-6MuT7XzzMZD4EQ2Td5/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (CK) Backup 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/V4VJVDPuGGWCm5qCL-YdEA/Fv2lucGIbhPi2caWYvF5Lg/1756068307615/live/hd-en-6MuT7XzzMZD4EQ2Td5/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (CK) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/w9saBLzbFx3hPey6jSgppw/67544df98adad7c165ac45843eec88d6/1756068307/live/_definst_/stream_1_1bda7@daoFHD/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (CK) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/d9e2ArUynVZiHDHkM2Vwiw/bcb43f9217ab3be1d1ab47881bede4b9/1756068307/live/_definst_/stream_1_1bda7@daoHD/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (CK) HD NHANH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/daoHD.flv?expire=1756068307&sign=580c8e8abe445545545a231a5d6e29c6
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (CK) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/UK1m6gV3b5T3G97DNBGIZQ/Fv2lucGIbhPi2caWYvF5Lg/1756068307615/live/daoSD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://image-eu-na-q2h7.4shares.live/thesports/team/AlBataeh.png",21h00 Al Bataeh VS Khor Fakkan SSC (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -7953,6 +7873,10 @@ https://apisportzz179528093.nsnd.live/Rv_O9k7_WnxVO1fTByycRA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/pFOBPEmfGGqJey2OhGs5Uw/Fv2lucGIbhPi2caWYvF5Lg/1756066205828/live/sd-6MuRsxbpE3TKTXH7QX/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/08c92b16ceefe6ffd8916febf70274c4.png",21h00 Rubin Kazan B VS Nosta Novotroitsk (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/iP0q3tg0pPEvMtCkY3Jj9w/Fv2lucGIbhPi2caWYvF5Lg/1756071908918/live/sd-6MuScf6VrwmFjpPRbR/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/079bdbf302d4831bbbd8d623d25f27ff.png",21h00 Shirak VS FC Ararat-Armenia (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -8193,6 +8117,10 @@ https://apisportzz179528093.nsnd.live/UlPTXpooIFBnV63OyrJpew/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/HwjazZlCH6C7hOOIidQ7-A/Fv2lucGIbhPi2caWYvF5Lg/1756070407250/live/may121/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/0be74e892b9b5b3b3460bb982d3e4a1f.png",22h15 Platense (w) VS Boca Juniors (w) (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/If6JOk4fQ5oZe3OOCzvOMQ/Fv2lucGIbhPi2caWYvF5Lg/1756071909261/live/sd-6MuPtLZ2LwUKi4L4cj/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/998db478bf7c06d5817bf846987a0d0a.png",22h15 Strasbourg vs Nantes (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -8241,6 +8169,70 @@ https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1756070406&sign=639
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/-Edffn1JHpFQMZBcvywX1A/Fv2lucGIbhPi2caWYvF5Lg/1756070406914/live/lungSD/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/7c2a2b235737937d783bff7397a6eb00.png",22h30 Banik Ostrava VS Synot Slovacko (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/3YfV8kMNmI_-cx3UgbGUng/Fv2lucGIbhPi2caWYvF5Lg/1756071910294/live/sd-6MuT7hqfXGFD91dzjd/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/89cdadf6cf1eb6f8d2507de1e01f806c.png",22h30 Borussia Monchengladbach vs Hamburger SV (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/PTUoYqsC7YMUW3ku_NehmQ/Fv2lucGIbhPi2caWYvF5Lg/1756071907055/live/sd-6MuT7Xzyr5DD79HUHZ/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/89cdadf6cf1eb6f8d2507de1e01f806c.png",22h30 Borussia Monchengladbach vs Hamburger SV (CK) Backup 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/ed2f7w-zwRVgUynmaklMWA/Fv2lucGIbhPi2caWYvF5Lg/1756071907055/live/hd-en-6MuT7Xzyr5DD79HUHZ/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/89cdadf6cf1eb6f8d2507de1e01f806c.png",22h30 Borussia Monchengladbach vs Hamburger SV (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/FtJCg1Ja-MXZShhfGTeU1A/cac03b136a8c356be180b4618c6bfeb5/1756071907/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/89cdadf6cf1eb6f8d2507de1e01f806c.png",22h30 Borussia Monchengladbach vs Hamburger SV (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/GWtc8-q5Am7WYBjKowmunA/0aafe7a6d19bfafd5e27cf7084b37d51/1756071907/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/89cdadf6cf1eb6f8d2507de1e01f806c.png",22h30 Borussia Monchengladbach vs Hamburger SV (CK) HD NHANH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1756071907&sign=d23ab829e6e8568c04ec1c9466dcbd2c
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/89cdadf6cf1eb6f8d2507de1e01f806c.png",22h30 Borussia Monchengladbach vs Hamburger SV (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/QQyOFkyHrC37NIJcGOOxvA/Fv2lucGIbhPi2caWYvF5Lg/1756071907055/live/xienSD/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/d8fef73043961d11ed61a37476a54568.png",22h30 CS Universitatea Craiova VS Petrolul Ploiesti (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/Sb0_Q87SWm-p71vbHJ4GOg/Fv2lucGIbhPi2caWYvF5Lg/1756071907757/live/sd-6MuSsKaN23n5d3guyM/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/29982511f1ea861967c3e6478d6a8a68.png",22h30 Fulham vs Manchester United (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/dfYedPo1BlAnr4CW6MJ9vA/Fv2lucGIbhPi2caWYvF5Lg/1756071431645/live/sd-6MuT7JwXu3LXTcSCG3/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/29982511f1ea861967c3e6478d6a8a68.png",22h30 Fulham vs Manchester United (CK) Backup 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/vXwCTLuusy9_Km2sSrXDqQ/Fv2lucGIbhPi2caWYvF5Lg/1756071431646/live/hd-en-6MuT7JwXu3LXTcSCG3/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/29982511f1ea861967c3e6478d6a8a68.png",22h30 Fulham vs Manchester United (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/WEQU6bmJgFCTsZppMrKuSw/b3a4e09812c4bf982e7ada2e2628f1f9/1756071431/live/_definst_/stream_1_1bda7@trauHD/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/51ef3197d7bc6035e9b553a37b814ba3.png",22h30 Jaro VS KuPs (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/OUsH_cDDga7wkcR7-vwF0Q/Fv2lucGIbhPi2caWYvF5Lg/1756071908165/live/sd-6MtN8ReUUQ1T5tBksm/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/b3cb1dab4929d327b7ee42553a2fef58.png",22h30 Lechia Gdansk VS Arka Gdynia (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/mK4fcwBXIwnyDHmenKfELw/Fv2lucGIbhPi2caWYvF5Lg/1756071907410/live/sd-6MuT7UkjGEVRV2yJ3d/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/84438b7aae55a0638073ef798e50b4ef.gif",22h30 ND Primorje VS NK Olimpija Ljubljana (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/iLKRjsIwOEkduC2EGEaEVg/Fv2lucGIbhPi2caWYvF5Lg/1756071909954/live/sd-6MuSsD5rVweWGEmbpF/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://static.flashscore.com/res/image/data/tSpN3Ghl-2FYvdV3F.png",22h30 Ruch Chorzow VS Polonia Bytom (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/F_hHlIYkdM7CE-GAS4AzFw/Fv2lucGIbhPi2caWYvF5Lg/1756071909604/live/sd-6MuSrz6o7zN7z7gJ4b/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/14215ad91a839ba1b4f216001eb02d91.png",22h30 Turan Tovuz VS Araz Nakhchivan (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/WueU30ygxxAqlgLgDTeREQ/Fv2lucGIbhPi2caWYvF5Lg/1756071908533/live/sd-6MvXbwKurueY75jjRd/playlist.m3u8
 
 #EXTGRP:Dini
 #EXTINF:-1 tvg-name="diyanettv" tvg-logo="https://i.ibb.co/k9phm3v/diyanettv.png" group-title="Dini",DİYANET TV
@@ -9154,34 +9146,6 @@ https://qtcdn.livestreameuro.live/live/m205qt/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m405nd/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/0b168930b9b0cf269daf08a53170b27a.png",20h30 Club Atletico Progreso vs Danubio FC (LẤY KINH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/m203qt/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (LẤY KINH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939170.vipcdnlive.xyz/live/duongtienhd2/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (LẤY KINH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/duongtienhd1/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (LẤY KINH) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/duongtienhd1.flv
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (LẤY KINH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939170.vipcdnlive.xyz/live/duongtiensd2/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (LẤY KINH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/duongtiensd1/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (LẤY KINH) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/duongtiensd1.flv
 #EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/2194d8f23b8504ac8ca5861a508ecbe3.png",21h00 Al Bataeh vs Khor Fakkan SSC (LẤY KINH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -9544,34 +9508,6 @@ https://qtcdn.livestreameuro.live/live/m205qt/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m405nd/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/0b168930b9b0cf269daf08a53170b27a.png",20h30 Club Atletico Progreso vs Danubio FC (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/m203qt/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939170.vipcdnlive.xyz/live/duongtienhd2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/duongtienhd1/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/duongtienhd1.flv
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939170.vipcdnlive.xyz/live/duongtiensd2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/duongtiensd1/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/duongtiensd1.flv
 #EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/2194d8f23b8504ac8ca5861a508ecbe3.png",21h00 Al Bataeh vs Khor Fakkan SSC (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -9878,34 +9814,6 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m504nd/playlist.m
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m505nd/playlist.m3u8
 
 #EXTGRP:RA KHƠI
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/0b168930b9b0cf269daf08a53170b27a.png",20h30 Club Atletico Progreso vs Danubio FC (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m203qt/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (Ra Khơi) A Cay HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (Ra Khơi) A Cay SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/duongtienhd2/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (Ra Khơi) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/duongtienhd1.flv
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/duongtiensd2/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/903089d338485f6c68fbc5da690a0628.png",20h30 FSV Mainz 05 vs FC Köln (Ra Khơi) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/duongtiensd1.flv
 #EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/2194d8f23b8504ac8ca5861a508ecbe3.png",21h00 Al Bataeh vs Khor Fakkan SSC (Ra Khơi) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -10162,34 +10070,6 @@ https://cr7.rbncdn.net/live/689c8fd35ae37172a548f9ed_965mkyhk4e3lr1g_sd/playlist
 https://rblive.starxcdn.xyz/live/689c8fd35ae37172a548f9ed_965mkyhk4e3lr1g_sd.flv
 
 #EXTGRP:SAO KÊ
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8263_small.png",20:30 Belgium vs Slovakia (Sao kê) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke3x1/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",20:30 Thái Lan vs Sweden (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x10y2/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",20:30 Thái Lan vs Sweden (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x21y2/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",20:30 Thái Lan vs Sweden (Sao kê) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x10y3-1315/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",20:30 Thái Lan vs Sweden (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x10y1/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",20:30 Thái Lan vs Sweden (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x21y1/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",20:30 Thái Lan vs Sweden (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x21y3-8018/playlist.m3u8
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1634_small.png",21:30 Famalicao và Gil Vicente (Sao kê) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
