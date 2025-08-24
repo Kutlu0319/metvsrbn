@@ -3318,11 +3318,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-PTV-Phat_thanh_Phu_Tho
 #EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTVPlus-VOT-Phat_thanh_Thai_Nguyen" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TNTV%20-%20Ph%C3%A1t%20thanh%20Th%C3%A1i%20Nguy%C3%AAn.png",FM 106,5 • VOT - PT THÁI NGUYÊN
 https://radio.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:0 group-title="__THÔNG BÁO__",!!! Link XEM LẠI đã tách sang byvn.net/KHXg
-https://hello#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/e868bb2eac1923c5aecaddd492860b32.png",03h15 Cienciano vs Atletico Grau 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/c180b87377a8cfe3815dfb0be746fd85/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/d6c87740307bf1edfc79b4b09a2dc3bf.png",04h00 Charleston Battery vs Loudoun United 1 (Bc)
+https://hello#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/d6c87740307bf1edfc79b4b09a2dc3bf.png",04h00 Charleston Battery vs Loudoun United 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/6a24616dab2ebc89a3038cc4360c8a21/playlist.m3u8
@@ -3398,6 +3394,10 @@ https://2893950149.global.cdnfastest.com/live/68ab7e1d5bab7_4908.flv?expire=1756
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/0afb703f496411bd856bb7b42e9713f4/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/c210e6c1fadf9e292797da2cdf685555.jpg",04h30 Cerro Porteno vs Club Sportivo Trinidense 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/5ee254871de7d824469eb22e1a8ade4c/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/bbe63d46b95d72a6688621c44c710dc8.png",05h00 Retro FC Brasil vs ABC RN 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -3414,10 +3414,6 @@ https://live.alilicloud.com/live/0059fab05a6398b121c7370e5910dbb3/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/f6c162c99f88d06a8077bb00137a1f0b/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/3fa6132601229808cd393c20d8ac4639.png",05h00 Olancho FC vs Marathon 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/eeeeaf6932afbfed56e8d6b5a4cd7187/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/7f194b2fd96278717d9bedfd872efeb7.png",05h00 Orsomarso vs Atletico Huila 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -3430,18 +3426,14 @@ https://live.alilicloud.com/live/a3bbe6a2745b6b230c54dd67c74bdc41/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/d48c9565cc615b25793b4dceb677fbb0/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/415e4ed317b0b0a4aea7c8ddc5cdd658.png",05h30 Universitario De Deportes vs Alianza Lima 1 (Bc)
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/f4cea9ea6b13a776e6b560ad2bf0bbe4.png",06h00 Saint Louis Athletica (w) vs Club Necaxa (w) [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/dae4a105a630098edfd4a24af92a05e2/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/931992c55098868f21af4b2a6aaf019e.png",05h30 Middleham United FC vs Promex Harlem United SC 1 (Bc)
+https://2893254555.global.cdnfastest.com/live/68ab8f642f363_18754/index.m3u8?expire=1756678628&sign=4501ef94dfbaae274495d1bd67f764d9
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/f4cea9ea6b13a776e6b560ad2bf0bbe4.png",06h00 Saint Louis Athletica (w) vs Club Necaxa (w) [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/e92122d46aa49438235b430c53619348/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/abeec027857ad31d1768a978d3c0aa6a.png",05h30 Portsmouth Bombers vs Point Michel FC 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/23b0666defbc95fca8bcaf050953ebb3/playlist.m3u8
+https://2893950149.global.cdnfastest.com/live/68ab8f642f363_18754.flv?expire=1756678628&sign=4501ef94dfbaae274495d1bd67f764d9
 #EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/e868bb2eac1923c5aecaddd492860b32.png",03h15 Cienciano vs Atletico Grau (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -3450,10 +3442,6 @@ https://qtcdn.livestreameuro.live/live/m301qt/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/m302qt/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/dcb67dd58619e29d84853ac2e4ac5e27.png",03h00 Atlanta United vs Toronto FC (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m303qt/playlist.m3u8
 #EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/d95f60f58aac7368fb6659aa0f27cfbf.png",04h00 CA Penarol vs CA River Plate Montevideo (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -3534,30 +3522,10 @@ https://qtcdn.livestreameuro.live/live/m204qt/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/m206qt/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/v2/team/e1914856b4193471bc43e3f140810da2.png",03h00 Pablo Carreño Busta vs Pablo Llamas Ruiz (CK) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/6rCbE5enR-9fsy6RTPgAFQ/Fv2lucGIbhPi2caWYvF5Lg/1756080315567/live/may261/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://static.flashscore.com/res/image/data/O6K0m1Ea-0WZbqqxh.png",03h00 Jerome Kym vs Ethan Quinn (CK) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/6aYzvgoRxxYAct611Zmphg/Fv2lucGIbhPi2caWYvF5Lg/1756083907875/live/may281/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/v2/team/424a5e62d8cdb7cb4e1e444794cf2ebe.png",03h25 Camilo Ugo Carabelli vs Tomas Martin Etcheverry (CK) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/Qb9lTX0WvjsO4muF75ZGUQ/Fv2lucGIbhPi2caWYvF5Lg/1756081510982/live/may271/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/618cdccf7f9de42b4999578e9435b83c.png",03h00 York United FC VS Pacific FC (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/HTlWQy0rP64PlZVeb_Q1vQ/Fv2lucGIbhPi2caWYvF5Lg/1756088408260/live/sd-6MtJQoK1LCvCHRB4aP/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/dcb67dd58619e29d84853ac2e4ac5e27.png",03h00 Atlanta United VS Toronto FC (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/1trNwhw0L9sac-TThCHC-g/Fv2lucGIbhPi2caWYvF5Lg/1756088407898/live/sd-6MtMPPbpNLeaJjUnfd/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/e868bb2eac1923c5aecaddd492860b32.png",03h15 Cienciano VS Atletico Grau (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/ou2nVKoVhkUcUuz9urdfaw/Fv2lucGIbhPi2caWYvF5Lg/1756088706937/live/sd-6MuPtPryMnXxBvymqm/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/v2/team/41ad6d90f82068c5fccacb33a17a9ab5.png",03h50 Emma Navarro vs Wang Yafan (CK) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -3650,6 +3618,42 @@ https://apisportzz179528093.nsnd.live/wDxdEh18Bh_-WNvaCjC4-w/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/cK2aRQDiUHDZ3jq2dBbGBA/Fv2lucGIbhPi2caWYvF5Lg/1756094409560/live/sd-6MtJR2PCwZwMaWNNf5/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/v2/team/3145531b797a9337f8d16557fbf9a6bc.png",04h50 Anastasia Potapova vs Zhu Lin (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/17Tw7yz9XwYrgSehpsrYxA/Fv2lucGIbhPi2caWYvF5Lg/1756085407953/live/may251/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/v2/team/1241fda077affd11713063f15cf3a30c.png",05h05 Mariano Navone vs Marcos Giron (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/xqXQTnhMhB2sUDFnKJfppw/Fv2lucGIbhPi2caWYvF5Lg/1756085408091/live/may28/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/v2/team/3053de3d345996c6c386ea91c3a430a2.png",05h10 Zhang Shuai vs Belinda Bencic (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/uhUTrgZxSu15A84S2PQfVw/Fv2lucGIbhPi2caWYvF5Lg/1756094106972/live/may251/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/7f194b2fd96278717d9bedfd872efeb7.png",05h00 Orsomarso VS Atletico Huila (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/y6RnJEN75eTpay-Oa6mGyA/Fv2lucGIbhPi2caWYvF5Lg/1756095609485/live/sd-6MvXbwKuhWZNG6rTPH/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/7e7023e03117d0dd2584c016991ef65b.png",05h00 Atletico Vega Real VS Atletico San Cristobal (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/_RqJ_TBHX8Wmsd4db5TEOw/Fv2lucGIbhPi2caWYvF5Lg/1756095609857/live/sd-6MvXMSdnmnxUdTLNuy/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/1c81d6933eb26ccd2da677739cf102f0.png",05h00 SLH St Pauls Utd VS Conaree United (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/mQwbhTJs7iW_4I3Lcj4A-g/Fv2lucGIbhPi2caWYvF5Lg/1756095610194/live/sd-6MvXML2dhvP1vQEKYf/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/3fec3f308d8ff5e12b54033c1daa9db0.png",05h00 Estudiantes Merida FC VS Deportivo La Guaira (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/sSztQfe6v0xTDbNNg8fgUg/Fv2lucGIbhPi2caWYvF5Lg/1756095610672/live/sd-6MuQ8tVQXkrpdr3kEo/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/e2f40e16499b22e942a5bd1d1d2398d3.png",05h00 Sao Bernardo VS Nautico (PE) (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/wT_tjjdFl0kGdDKa7R6Q0g/Fv2lucGIbhPi2caWYvF5Lg/1756095611031/live/sd-6MtJR2PCwEA2kBw8H1/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",05h00 Botafogo PB VS Tombense (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/A0-y6Q1XAF-yAYpdJqU0lg/Fv2lucGIbhPi2caWYvF5Lg/1756095611379/live/sd-6MtJR2PxwBqREGDsnb/playlist.m3u8
 #EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/9ed2c4f6adc51975cdbd2a93093e6a43.png",04h15 Boca Juniors vs Banfield (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -3706,10 +3710,6 @@ https://qtcdn.livestreameuro.live/live/m301qt/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://qtcdn.livestreameuro.live/live/m302qt/playlist.m3u8 
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/dcb67dd58619e29d84853ac2e4ac5e27.png",03h00 Atlanta United vs Toronto FC (LẤY KINH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/m303qt/playlist.m3u8 
 #EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/6528d5852a5c4d3060d15c94f122b81d.png",04h00 Metropolitanos FC vs Deportivo Tachira (LẤY KINH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -3900,14 +3900,6 @@ https://wtyi0525.edgemaxcdn.org/live/x2y3-4509/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad71710204.stream.hdplaylink.com/sklive/x2y2/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/013194843e965c12440f59c313bc24e8/image/small",23h15 Old Edwardians vs Freetown City (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9da1b8ac552abfb7c5ae87c1b83aace4/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/b6b039ab0319122bc6c0da16f987d013/image/small",23h30 ZNK Osijek vs Hajduk Split (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/f681a7402526c0ae98c247a45cf62afe/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/5a9f9514335de505d98059ee3c6e69ee/image/small",00h00 Gareji Sagarejo vs FC Kolkheti Poti (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -4100,6 +4092,34 @@ https://live.alilicloud.com/live/e0eeca349eb1ab46a8b8822163a53b9f/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/f737df12d53f1650b6c833f93db536bd/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/0471a3fe0c6fc2a30642935fa5db6363/image/small",04h15 Real Oruro vs Independiente Petrolero (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/900c7d24804c20ea6925d8079c5817a4/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/NXT_Heatwave_2023.jpg",07h00 Heatwave vs Heatwave (Khán Đài A) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/1ced7f8b8b51458d9d2aa1f0177fb1c6_480/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/NXT_Heatwave_2023.jpg",07h00 Heatwave vs Heatwave (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/1ced7f8b8b51458d9d2aa1f0177fb1c6_720/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/NXT_Heatwave_2023.jpg",07h00 Heatwave vs Heatwave (Khán Đài A) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live3.fastestcdn-global.com/live3/1ced7f8b8b51458d9d2aa1f0177fb1c6_480/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/NXT_Heatwave_2023.jpg",07h00 Heatwave vs Heatwave (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live3.fastestcdn-global.com/live3/1ced7f8b8b51458d9d2aa1f0177fb1c6_720/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/NXT_Heatwave_2023.jpg",07h00 Heatwave vs Heatwave (Khán Đài A) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live4.fastestcdn-global.com/live4/1ced7f8b8b51458d9d2aa1f0177fb1c6_480/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/NXT_Heatwave_2023.jpg",07h00 Heatwave vs Heatwave (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live4.fastestcdn-global.com/live4/1ced7f8b8b51458d9d2aa1f0177fb1c6_720/index.m3u8
 #EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/e868bb2eac1923c5aecaddd492860b32.png",03h15 Cienciano vs Atletico Grau (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -4108,10 +4128,6 @@ https://qtcdn.livestreameuro.live/live/m301qt/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://qtcdn.livestreameuro.live/live/m302qt/playlist.m3u8 
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/dcb67dd58619e29d84853ac2e4ac5e27.png",03h00 Atlanta United vs Toronto FC (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/m303qt/playlist.m3u8 
 #EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/6528d5852a5c4d3060d15c94f122b81d.png",04h00 Metropolitanos FC vs Deportivo Tachira (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -4576,42 +4592,6 @@ https://stream.chuoichien.tv/chuoilun/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoilun.flv
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/013194843e965c12440f59c313bc24e8/image/small",23h15 Old Edwardians vs Freetown City (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/9da1b8ac552abfb7c5ae87c1b83aace4/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/c4e367521687207f051bdfb5fa81c7d8/image/small",23h30 Cagliari vs Fiorentina (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/a535bac32a1a620839bb423253ac8b7a/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/c4e367521687207f051bdfb5fa81c7d8/image/small",23h30 Cagliari vs Fiorentina (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc38017100.stream.hdplaylink.com/live8/f97385d9b9554f9e9056d8b65484055c_480/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/c4e367521687207f051bdfb5fa81c7d8/image/small",23h30 Cagliari vs Fiorentina (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc38017100.stream.hdplaylink.com/live8/f97385d9b9554f9e9056d8b65484055c_720/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/c4e367521687207f051bdfb5fa81c7d8/image/small",23h30 Cagliari vs Fiorentina (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/f97385d9b9554f9e9056d8b65484055c_480/index.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/c4e367521687207f051bdfb5fa81c7d8/image/small",23h30 Cagliari vs Fiorentina (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/f97385d9b9554f9e9056d8b65484055c_720/index.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/c4e367521687207f051bdfb5fa81c7d8/image/small",23h30 Cagliari vs Fiorentina (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/f97385d9b9554f9e9056d8b65484055c_480/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/c4e367521687207f051bdfb5fa81c7d8/image/small",23h30 Cagliari vs Fiorentina (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/f97385d9b9554f9e9056d8b65484055c_720/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/b6b039ab0319122bc6c0da16f987d013/image/small",23h30 ZNK Osijek vs Hajduk Split (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/f681a7402526c0ae98c247a45cf62afe/playlist.m3u8
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/5a9f9514335de505d98059ee3c6e69ee/image/small",00h00 Gareji Sagarejo vs FC Kolkheti Poti (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -4800,6 +4780,18 @@ https://live.alilicloud.com/live/d48c9565cc615b25793b4dceb677fbb0/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/f737df12d53f1650b6c833f93db536bd/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/ae3f9030200b6e14ca57a00c6e279fb1/image/small",02h30 Itabaiana(SE) vs Maringa FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/e0eeca349eb1ab46a8b8822163a53b9f/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/0471a3fe0c6fc2a30642935fa5db6363/image/small",04h15 Real Oruro vs Independiente Petrolero (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/900c7d24804c20ea6925d8079c5817a4/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/43451cd2b8eabfbf16ca93c1306edbe2/image/small",01h00 Estudiantes Merida FC vs Deportivo La Guaira (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/f6c162c99f88d06a8077bb00137a1f0b/playlist.m3u8
 #-----------------------Truyền Hình-------------------------------#
 #EXTINF:1 tvg-id="vtv1hd" tvg-name="VTV1 HD" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/y8s34Vs/ccvtv1.webp",VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
@@ -8629,7 +8621,7 @@ https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 https://hls.mskycdn.online/tv/fashionhd/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="Quốc tế",Clubbingtv
 https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
-# Last forced update: 2025-08-24T22:00:20.481240Z
+# Last forced update: 2025-08-24T22:18:20.560347Z
 #EXTINF:-1  tvg-name="13th Street DE" tvg-id="skyde/13thstreet" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/13th-street-de.png?raw=true" group-title="UDPTV Live Streams",13th Street DE
 https://ott.udptv.xyz/stream/skyde/13thstreet/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1  tvg-name="A2Z" tvg-id="A2z.ph" tvg-logo="https://i.imgur.com/3myn4zH.png" group-title="UDPTV Live Streams",A2Z
