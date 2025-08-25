@@ -3332,10 +3332,6 @@ https://2893950149.global.cdnfastest.com/live/68ac20995bab7_4439.flv?expire=1756
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/22064d3f6e2cb5dd69a6a95ed8cd0444/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/ce420e1c7a8b93f3dfe28434e89a3e41.png",17h00 KSPO FC (w) vs Sejong Gumi Sportstoto (w) 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/2fabee88447000b19b012ab6322a6519/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/19ba34d167be9b01eb848a0a777932ac.png",17h00 Seoul Amazones (w) vs Changnyeong (w) 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -3364,22 +3360,30 @@ https://2893254555.global.cdnfastest.com/live/68ac09fc2f363_5601/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/68ac09fc2f363_5601.flv?expire=1756710012&sign=d034928fc2440ef828e223b56085a97f
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/de1481fb124139924751aff7749e542d.jpg",17h30 Ozge BAYRAK vs Tiffany HO [hls]
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/e08adb837c35fdc15b326328815930b3.png",18h00 Chayka Petropavlovsk Borshchagovka vs Lisne 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/68ac08975bab7_5160/index.m3u8?expire=1756709655&sign=7d80e61d029f9a0956d85d4d7a75aa5d
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/de1481fb124139924751aff7749e542d.jpg",17h30 Ozge BAYRAK vs Tiffany HO [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/68ac08975bab7_5160.flv?expire=1756709655&sign=7d80e61d029f9a0956d85d4d7a75aa5d
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/5e2cd04d6aa69cf4b147c51e2b3f4214.jpg",18h10 Christo POPOV vs PUI Pang Fong [hls]
+https://live.alilicloud.com/live/638802f34d16fe2bb610d8a73461b0bf/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/5e2cd04d6aa69cf4b147c51e2b3f4214.jpg",18h00 Christo POPOV vs PUI Pang Fong [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/68ac2bf52f363_18754/index.m3u8?expire=1756718709&sign=9e4c33a3a195c0c0597cce2c3faa77ee
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/5e2cd04d6aa69cf4b147c51e2b3f4214.jpg",18h10 Christo POPOV vs PUI Pang Fong [flv]
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/5e2cd04d6aa69cf4b147c51e2b3f4214.jpg",18h00 Christo POPOV vs PUI Pang Fong [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/68ac2bf52f363_18754.flv?expire=1756718709&sign=9e4c33a3a195c0c0597cce2c3faa77ee
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/58559beb73e69cca92048eb688becd12.png",18h00 Kairat Almaty (W) vs FK Zhenys (W) 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/5baee7a828f1253dfad30b7e6ee8690f/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/b317225b873f9806675d1a6b9ba61811.png",18h10 Le Duc Phat vs Julien CARRAGGI [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68ac08975bab7_5160/index.m3u8?expire=1756709655&sign=7d80e61d029f9a0956d85d4d7a75aa5d
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/b317225b873f9806675d1a6b9ba61811.png",18h10 Le Duc Phat vs Julien CARRAGGI [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/68ac08975bab7_5160.flv?expire=1756709655&sign=7d80e61d029f9a0956d85d4d7a75aa5d
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/1b7b9df19717ad8b09e6d9a4740f281a.png",16h30 Ispe FC (w) VS Strykers FC W (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -3408,6 +3412,10 @@ https://apisportzz179528093.nsnd.live/HzdBoRhZweWfz1wyuhcyfg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/HpiRFjLeg61UA4h699hRvg/Fv2lucGIbhPi2caWYvF5Lg/1756139105374/live/sd-6MvXMSdmwSPL5HB1By/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/e08adb837c35fdc15b326328815930b3.png",18h00 Chayka Petropavlovsk Borshchagovka VS Lisne (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/DAWR1oALtSB2B4aoZJ_LyA/Fv2lucGIbhPi2caWYvF5Lg/1756141505917/live/sd-6MvXbwGwkfGYJodHWT/playlist.m3u8
 #EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/19ba34d167be9b01eb848a0a777932ac.png",17h00 Seoul Amazones (w) vs Changnyeong (w) (Cà Khịa) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -3936,30 +3944,6 @@ https://wtyi0525.edgemaxcdn.org/live/saoke4x3/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke1x1/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://img0.aiscore.com/football/team/4a64d3cdd64dea1d2a3a7a81befce763.png!w60",15:45 6 Yard Etihad (W) vs Lion City Sailors FC (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x10y1/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://img0.aiscore.com/football/team/4a64d3cdd64dea1d2a3a7a81befce763.png!w60",15:45 6 Yard Etihad (W) vs Lion City Sailors FC (Sao kê) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x10y3-1317/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://img0.aiscore.com/football/team/4a64d3cdd64dea1d2a3a7a81befce763.png!w60",15:45 6 Yard Etihad (W) vs Lion City Sailors FC (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x10y2/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://img0.aiscore.com/football/team/4a64d3cdd64dea1d2a3a7a81befce763.png!w60",15:45 6 Yard Etihad (W) vs Lion City Sailors FC (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x17y1/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://img0.aiscore.com/football/team/4a64d3cdd64dea1d2a3a7a81befce763.png!w60",15:45 6 Yard Etihad (W) vs Lion City Sailors FC (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x17y3-0217/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://img0.aiscore.com/football/team/4a64d3cdd64dea1d2a3a7a81befce763.png!w60",15:45 6 Yard Etihad (W) vs Lion City Sailors FC (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x17y2/playlist.m3u8
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5810_small.png",16:00 Canada vs Spain (Sao kê) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -4160,6 +4144,42 @@ https://live.alilicloud.com/live/b25341cce4cf3aa14c3480509412995b/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/16b1308fdcb462b10bfc059141377e3e/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/51473abd29653369e426610aa8e9a239/image/small",18h00 Chayka Petropavlovsk Borshchagovka vs Lisne (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/638802f34d16fe2bb610d8a73461b0bf/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/6341c5fdb4b0738bd62a29535b41d816/image/small",18h00 Kairat Almaty (W) vs FK Zhenys (W) (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/5baee7a828f1253dfad30b7e6ee8690f/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/809cbba18041000f2f966708fb21fd69/image/small",18h30 Lion City Sailors vs Hougang United FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/df9bab181d1c0755d73762f3224a5a2a/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/809cbba18041000f2f966708fb21fd69/image/small",18h30 Lion City Sailors vs Hougang United FC (Khán Đài A) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/74e4347225f04c6ebe3ae523bae73967_480/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/809cbba18041000f2f966708fb21fd69/image/small",18h30 Lion City Sailors vs Hougang United FC (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/74e4347225f04c6ebe3ae523bae73967_720/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/809cbba18041000f2f966708fb21fd69/image/small",18h30 Lion City Sailors vs Hougang United FC (Khán Đài A) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live3.fastestcdn-global.com/live3/74e4347225f04c6ebe3ae523bae73967_480/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/809cbba18041000f2f966708fb21fd69/image/small",18h30 Lion City Sailors vs Hougang United FC (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live3.fastestcdn-global.com/live3/74e4347225f04c6ebe3ae523bae73967_720/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/809cbba18041000f2f966708fb21fd69/image/small",18h30 Lion City Sailors vs Hougang United FC (Khán Đài A) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live4.fastestcdn-global.com/live4/74e4347225f04c6ebe3ae523bae73967_480/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/809cbba18041000f2f966708fb21fd69/image/small",18h30 Lion City Sailors vs Hougang United FC (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live4.fastestcdn-global.com/live4/74e4347225f04c6ebe3ae523bae73967_720/index.m3u8
 #EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/19ba34d167be9b01eb848a0a777932ac.png",17h00 Seoul Amazones (w) vs Changnyeong (w) (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -4448,6 +4468,14 @@ https://live.alilicloud.com/live/240276f00aa3bed442472796d5ebecc1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/b25341cce4cf3aa14c3480509412995b/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/51473abd29653369e426610aa8e9a239/image/small",18h00 Chayka Petropavlovsk Borshchagovka vs Lisne (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/638802f34d16fe2bb610d8a73461b0bf/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/6341c5fdb4b0738bd62a29535b41d816/image/small",18h00 Kairat Almaty (W) vs FK Zhenys (W) (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/5baee7a828f1253dfad30b7e6ee8690f/playlist.m3u8
 #EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/41775/1h62t7755kq.png?win007=sell",16h30 Ispe FC (W) vs Strykers FC (W) (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -8322,7 +8350,7 @@ https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 https://hls.mskycdn.online/tv/fashionhd/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="Quốc tế",Clubbingtv
 https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
-# Last forced update: 2025-08-25T10:50:57.840596Z
+# Last forced update: 2025-08-25T11:10:27.276126Z
 #EXTINF:-1  tvg-name="13th Street DE" tvg-id="skyde/13thstreet" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/13th-street-de.png?raw=true" group-title="UDPTV Live Streams",13th Street DE
 https://ott.udptv.xyz/stream/skyde/13thstreet/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1  tvg-name="A2Z" tvg-id="A2z.ph" tvg-logo="https://i.imgur.com/3myn4zH.png" group-title="UDPTV Live Streams",A2Z
