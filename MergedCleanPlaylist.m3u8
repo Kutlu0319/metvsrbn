@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged2_epg.xml.gz"
-# Last forced update: 2025-08-25T13:43:58.460774Z
+# Last forced update: 2025-08-25T14:17:09.418659Z
 
 #EXTGRP:1955 ⚡ 1969
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="1955 ⚡ 1969", 12 Kızgın Adam
@@ -6565,7 +6565,7 @@ http://104.238.23.215/iptv_panel/get.php?channel=Channel4747&token=token123
 
 #EXTGRP:__THÔNG BÁO__
 #EXTINF:0 group-title="__THÔNG BÁO__",!!! Link XEM LẠI đã tách sang byvn.net/KHXg
-https://hello#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC 1 (Bc)
+https://hello#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/6e0d069a8e8c63f58835aba4469ec4d4.png",19h30 College of Asian Scholars (W) vs Al Nassr(W) 1 (Bc)
 
 #EXTGRP:Belgesel
 #EXTINF:-1 tvg-id="86" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/9ed6faa15f968198d17c0362658f6b50.jpg" tvg-name="BBC EARTH HD" group-title="Belgesel",BBC EARTH HD
@@ -6661,22 +6661,14 @@ https://tv.arectv34.sbs/live/yaban.m3u8
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 
 #EXTGRP:BÚN CHẢ
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/68ac46515bab7_29975.flv?expire=1756725457&sign=ff61e20dcd1e8433ec0f9fab5e5447c7
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/68ac46515bab7_29975/index.m3u8?expire=1756725457&sign=ff61e20dcd1e8433ec0f9fab5e5447c7
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/6e0d069a8e8c63f58835aba4469ec4d4.png",19h30 College of Asian Scholars (W) vs Al Nassr(W) 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/a0cfeb7943a14b5bee2434880226dd37/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/3d5ee30501a1bba1cdd411de2cded0fa.png",19h30 Stallion Laguna FC (W) vs Khovd Western (w) 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/16b1308fdcb462b10bfc059141377e3e/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/101aacf4f0ce748b11af3332206e9b9a.png",19h30 Thailand (w) U16 vs Singapore (w) U16 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/d73abd821298c938a2b6cb325c43150b/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/b0e6066ae39c19e46d25e122d0d1efcf.png",19h30 Trung Quốc vs Colombia [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -6689,10 +6681,22 @@ https://2893254555.global.cdnfastest.com/live/68ac53185bab7_42127/index.m3u8?exp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/771c1be5f1ada74a3b7fb909acb12bec/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/ed99535ba43802949eebb48406dcb093.png",19h45 Dinaz Vyshgorod vs Ahrobiznes TSK Romny 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/ae7804717416d048748c3d636d4fd43a/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/9b968d97aa9739ca06a933b8c567b447.png",19h50 Atlet Kiev vs FC Chernigiv 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/908464557aca2e48fd892432e3d209be/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="",19h50 Polissya Stavky vs Rebel Kyiv 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/ada823dfaa56c073c61304b0466ca864/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/29d7123b82bd73a8279e79b2682f8906.png",20h00 Costa Do Sol (W) vs Olympic de Moroni (W) 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/04916e595debdd987033a056ac0e6996/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/7b3d03dbd3d0038a861919a730a6d8c6.png",20h00 Liverpool U21 vs Burnley U21 [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -6733,10 +6737,18 @@ https://2893950149.global.cdnfastest.com/live/68ac4d8b5bab7_4439.flv?expire=1756
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/68ac4d8b5bab7_4439/index.m3u8?expire=1756727307&sign=2a14b8c8f7390645a1aa6b6c76e6a184
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/52cb3d06d6a517d74d7b47f81ceefb9b.png",21h00 Olympic FK Tashkent vs FK Olympic Tashkent B 1 (Bc)
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/89249a5f52adc4f1765d569889a543ec.png",21h00 Argentino Rosario (w) vs San Lorenzo (w) 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/c4270e1926bb234ffe3e34e4dd60109f/playlist.m3u8
+https://live.alilicloud.com/live/685e63844b8d3608e6f693b72ae0dad8/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/1fce7d86ca6940802882358907c614c0.png",21h00 Sogdiana Jizak vs Navbahor Namangan 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/d1a61db2cd878a6cb35b740f3c828d86/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/2e4706019285a00c27e317431253d86f.jpg",21h00 Ural Yekaterinburg vs Volga Ulyanovsk 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/879fb9edaa06cc005943c270a86cfadc/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/2e4706019285a00c27e317431253d86f.jpg",21h00 Ural Yekaterinburg vs Volga Ulyanovsk [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -6745,56 +6757,68 @@ https://2893950149.global.cdnfastest.com/live/68ac5e8b2f363_19.flv?expire=175673
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/68ac5e8b2f363_19/index.m3u8?expire=1756731659&sign=cb4378a7e9958915f21e5b6fdda41320
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/6792393a7bfaff902eafa5043dd89d40.png",22h00 FC Haka vs SJK Seinajoen [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/68ac6e2e2f363_97.flv?expire=1756735662&sign=1367fa68b318dd6496802911af74a2c5
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/6792393a7bfaff902eafa5043dd89d40.png",22h00 FC Haka vs SJK Seinajoen [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68ac6e2e2f363_97/index.m3u8?expire=1756735662&sign=1367fa68b318dd6496802911af74a2c5
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/0233f3bb964cf325a30f8b1c2ed2da93.jpg",23h00 Elverum vs Stromsgodset B 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/0b2e4dee3c0b96660a90205ed7f2dcb0/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/5a15fbeafbace6653cf789b2a252615f.png",23h00 Eyupspor vs Alanyaspor 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/27f05538d31e062d2e06e9015254428b/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/e56529f285521d487ddcbcb9b09f793b.png",23h00 FC Gonio vs Spaeri FC 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/f39a573efde31ec1a0140a37b4f5b051/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/94b0afefcbd2833ca00b176bb5aa6b05.png",23h00 Gnistan Helsinki vs AC Oulu 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/1d12295d7fc8989ae848f207fc773e4a/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/732ac055b269060b9864fe152a82c9cf.png",23h00 Hermannstadt vs Farul Constanta 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/5fe333c3e0f8738b53853c5a796379c7/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/677444bb5ad00123aaa1faa12637f866.png",23h00 Kristiansund B vs Ranheim B 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/6434a9d147400c263b6aae093ae784ef/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/b325fe2175ad9945e648dbb016b1756c.png",23h00 Siauliai vs Suduva 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/6bebbcbc3e0bf2e8ff389ca0b09298e1/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/e087c9b939975c0cb726253fc3c3e418.png",23h00 Slavia Sofia vs Arda 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/6b0ba1354fb7286b5d4fdb63a03f9e54/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/8b38773738e375421536382900b1abb0.png",23h00 Tallinna FC Levadia B vs Viimsi MRJK 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/1cab2de354826f9ff5e84c6ca48a9c9d/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/169ff38fca8b9101a185bc07c06d5f54.png",23h00 Viking B vs Hinna 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/feb9c5df886e58e78a57bf45f73b42f6/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/fe1a5738c1425376fecf86af7d2d0dc6.png",23h00 Zenit 2 St. Petersburg vs Zvezda Sint Petersburg 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/8e8e18480df849cc19c293eded1acca5/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/adc05b8e0a0ba09fd02282cf9324d5fa.jpg",23h15 Connahs Quay Nomads FC vs Flint Town 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/908f7d4c10242adee20dad5a6d1520bb/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/c7140efe06d93642fcc9805077c49aa5.png",23h30 Udinese vs Hellas Verona 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/a5e7fefee78d89a81bd108e537e1c702/playlist.m3u8
 
 #EXTGRP:CÀ KHỊA
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (Cà Khịa) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@muhd1/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (Cà Khịa) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/muhd2/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (Cà Khịa) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@muhd1.flv
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (Cà Khịa) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@musd1/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (Cà Khịa) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/musd2/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (Cà Khịa) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@musd1.flv
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (Cà Khịa) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (Cà Khịa) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (Cà Khịa) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1.flv
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (Cà Khịa) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (Cà Khịa) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/natrasd2/playlist.m3u8
-#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (Cà Khịa) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1.flv
 #EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/13a68b3d30244592fd258a32411473e8.png",19h30 Naegohyang W vs Master 7 Women (Cà Khịa) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -6877,50 +6901,10 @@ https://qtcdn.livestreameuro.live/live/momsd1/playlist.m3u8
 https://qtcdn.livestreameuro.live/live/momsd1.flv
 
 #EXTGRP:CÁ KÈO
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/1nu7oMFF4UaJ2O4UvblD1g/Fv2lucGIbhPi2caWYvF5Lg/1756147806874/live/sd-6MtMtKj5K6mm9UKqzb/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (CK) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/NioOaMbtlxw7VZORh-YLQA/adb8de5045254f4388ff92b08aeba831/1756147806/live/_definst_/stream_1_1bda7@nuiFHD/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (CK) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/DFUHYGbKD5HXk5qcTqGSVg/43bf1bdbba25fb941e370ed383221c53/1756147806/live/_definst_/stream_1_1bda7@nuiHD/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (CK) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/nuiHD.flv?expire=1756147806&sign=ea89944d075c306290be2658c3031048
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (CK) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/4LLv8lMjthQZzVV7h55kHg/Fv2lucGIbhPi2caWYvF5Lg/1756147806874/live/nuiSD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://static.flashscore.com/res/image/data/xC55svXg-MwxEcA3h.png",19h30 BG College of Asian Scholars (W) VS Al-Nassr Riyadh (W) (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/GbtOxmNE_dAEfLeOQNy7CQ/Fv2lucGIbhPi2caWYvF5Lg/1756147808693/live/sd-6MuTchDCjZNyLgbojq/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/china.png",19h30 China (w) vs Colombia (w) (CK) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/PM3B7VepeqXV4ugXlRfaOg/e56ce8a755cda33e7f050da0b700d013/1756145362/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/china.png",19h30 China (w) vs Colombia (w) (CK) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/IH2Sz1K4OVCvp5u-Dg69hQ/61b7c9f6fb3bff2f3c2273378af449b7/1756145362/live/_definst_/stream_1_1bda7@oldHD/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/china.png",19h30 China (w) vs Colombia (w) (CK) HD nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1756145362&sign=bee24e9f1538a9203bd8e088aebacb05
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/china.png",19h30 China (w) vs Colombia (w) (CK) Nhà Đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/g1Y2C3soEUuU-eW6eIfNpw/Fv2lucGIbhPi2caWYvF5Lg/1756145362071/live/may20/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/china.png",19h30 China (w) vs Colombia (w) (CK) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/c8zGi4zG-_NAOJisJJ8QDQ/Fv2lucGIbhPi2caWYvF5Lg/1756145362071/live/oldSD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/3d5ee30501a1bba1cdd411de2cded0fa.png",19h30 Stallion Laguna FC (W) VS Khovd Western (w) (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -6957,6 +6941,10 @@ https://apisportzz179528093.nsnd.live/tQKJdsAIOdOLHkUs81FXWA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/0Ba_mFCmocu3nf60sstqWg/Fv2lucGIbhPi2caWYvF5Lg/1756148408434/live/sd-6MvXbwHhuwe8tu9Ukb/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/29d7123b82bd73a8279e79b2682f8906.png",20h00 Costa Do Sol (W) VS Olympic de Moroni (W) (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/FcbQac0W2HzAix_ep43xCw/Fv2lucGIbhPi2caWYvF5Lg/1756152908445/live/sd-6MvXMSdmvwp5m3S6CK/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/poland.png",20h30 Poland (w) vs Kenya (w) (CK) Nhà Đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -6977,16 +6965,28 @@ https://hotlivezz179536519.akainu.xyz/live/hucHD.flv?expire=1756148387&sign=8af4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/nEgtC3fulE35Ic9I2Oo-Og/Fv2lucGIbhPi2caWYvF5Lg/1756148387906/live/hucSD/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/52cb3d06d6a517d74d7b47f81ceefb9b.png",21h00 Olympic FK Tashkent VS FK Olympic Tashkent B (CK) Backup 1
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/89249a5f52adc4f1765d569889a543ec.png",21h00 Argentino Rosario (w) VS San Lorenzo (w) (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/l3CPRboRYgBTacieUeFz5A/Fv2lucGIbhPi2caWYvF5Lg/1756146311482/live/sd-6MuPtuBBm7E8iV4bVM/playlist.m3u8
+https://apisportzz179528093.nsnd.live/iBveXnwiLid1TBcA7HZ8Ow/Fv2lucGIbhPi2caWYvF5Lg/1756152607728/live/sd-6MuPtLZ2r3VN8WotRH/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/1fce7d86ca6940802882358907c614c0.png",21h00 Sogdiana Jizak VS Navbahor Namangan (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/ilHJ80MgOl_2UqAFReRLRw/Fv2lucGIbhPi2caWYvF5Lg/1756152309670/live/sd-6MuTcQxRnoubqMw1vT/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/2e4706019285a00c27e317431253d86f.jpg",21h00 Ural Yekaterinburg VS Volga Ulyanovsk (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/P8RtQuS0bR-x2METgqdotQ/Fv2lucGIbhPi2caWYvF5Lg/1756152607030/live/sd-6MvXbwHhaRhffpgWks/playlist.m3u8
 
 #EXTGRP:GÀ VÀNG
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/4dfeb1004bf573e12766860c0a004527/image/small",17h00 College of Asian Scholars (W) vs Al Nassr(W) (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/a0cfeb7943a14b5bee2434880226dd37/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/454fbee3fd66e6893a1640a0599fb85f/image/small",17h00 FC Gonio vs Spaeri FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/f39a573efde31ec1a0140a37b4f5b051/playlist.m3u8
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/7430eedbd458c803d1f0a5b202ce5acf/image/small",17h00 Hwacheon KSPO WFC vs Sejong Sportstoto WFC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -7023,34 +7023,6 @@ https://live.alilicloud.com/live/5baee7a828f1253dfad30b7e6ee8690f/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/5b91382874a7a4fc30ab56e3445b8e26/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/215c6e031b50f389963b664858a04f59/image/small",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc38017100.stream.hdplaylink.com/live8/3bf5174bcf144b3d95fbbe6493576ad3_720/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/215c6e031b50f389963b664858a04f59/image/small",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/3bf5174bcf144b3d95fbbe6493576ad3_720/index.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/215c6e031b50f389963b664858a04f59/image/small",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/3bf5174bcf144b3d95fbbe6493576ad3_720/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/215c6e031b50f389963b664858a04f59/image/small",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc38017100.stream.hdplaylink.com/live8/3bf5174bcf144b3d95fbbe6493576ad3_480/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/215c6e031b50f389963b664858a04f59/image/small",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/3bf5174bcf144b3d95fbbe6493576ad3_480/index.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/215c6e031b50f389963b664858a04f59/image/small",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/3bf5174bcf144b3d95fbbe6493576ad3_480/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/215c6e031b50f389963b664858a04f59/image/small",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/588c2ecd78088c3f12355c41b0a0d9f4/playlist.m3u8
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/volleyball/team/8af12ea9788ae39fc945458c9e32e4c5/image/small",19h00 France U21 vs Ukraine U21 (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -7123,6 +7095,14 @@ https://live.alilicloud.com/live/36dbabc918bf21d125b53f8e328e6db4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/b24d34871a5dc93f641028425eca2b31/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/e29b2bc19ab76ec711e931394c125069/image/small",21h00 Argentino Rosario Women vs San Lorenzo Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/685e63844b8d3608e6f693b72ae0dad8/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/bd6437b994a3b12fdca49b1f46b010b2/image/small",21h00 Sogdiana Jizak vs Navbahor Namangan (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/d1a61db2cd878a6cb35b740f3c828d86/playlist.m3u8
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/fa2a7c9972a394ed8bf087d9df04c3c2/image/small",21h00 Ural Yekaterinburg vs Volga Ulyanovsk (Gà Vàng) hd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -7223,22 +7203,6 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/ulusalkanal_stream/index.m3u8?wm
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 
 #EXTGRP:KHÁN ĐÀI A
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/87840c90286ee11035be285e493d3000/image/small",15h00 Guangzhou Women's Football U14 vs Jinhua Huayue Women's Football Team U14 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/529944b1471730a9d5950e04811c1019/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/f5f91aef1e5d8f3b32430339a717537e/image/small",15h00 Luzhou Tianli Women's Football Team U14 vs Wuhan Women's Football U14 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/63da9a171f1c96442f965855570de87f/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/57b0724c2a7148d17e2655943255bdba/image/small",15h00 Shanghai Sports School Women's Football U14 vs Changsha Nanya Middle School Women's Football Team U14 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ec76ed66116f06290bb0b268d76bdff2/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/6fe7c8896e867bb966691bfa6cb6bd4b/image/small",15h00 Suzhou Football Sports Management Center Women's U14 Football Team vs Shijiazhuang Foreign Languages School Women's Football Team U14 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/e70e6f3770f23777e48d52658a601512/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/5b010a36122a04487d8accb1e8e90fcd/image/small",16h00 Colombia U21 vs Japan U21 (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -7259,6 +7223,10 @@ https://live.alilicloud.com/live/1512b09d35eefb7978faafe82bbd5ad7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/a0cfeb7943a14b5bee2434880226dd37/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/454fbee3fd66e6893a1640a0599fb85f/image/small",17h00 FC Gonio vs Spaeri FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/f39a573efde31ec1a0140a37b4f5b051/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/a7310022b3bb408b1633a74e4156e502/image/small",17h00 Gyeongju Korea Hydro & Nuclear Power WFC vs Mungyeong Sangmu WFC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -7323,34 +7291,6 @@ https://live.alilicloud.com/live/b1b732aca23a58ef69bf1d2c92218b68/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/908464557aca2e48fd892432e3d209be/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/ab92a42810e00c5aaf710de0a74efa10/image/small",19h30 China Women vs Colombia W (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/58022478367141609c0aee8af53800ff_720/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/ab92a42810e00c5aaf710de0a74efa10/image/small",19h30 China Women vs Colombia W (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live3.fastestcdn-global.com/live3/58022478367141609c0aee8af53800ff_720/index.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/ab92a42810e00c5aaf710de0a74efa10/image/small",19h30 China Women vs Colombia W (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/58022478367141609c0aee8af53800ff_720/index.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/ab92a42810e00c5aaf710de0a74efa10/image/small",19h30 China Women vs Colombia W (Khán Đài A) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/58022478367141609c0aee8af53800ff_480/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/ab92a42810e00c5aaf710de0a74efa10/image/small",19h30 China Women vs Colombia W (Khán Đài A) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live3.fastestcdn-global.com/live3/58022478367141609c0aee8af53800ff_480/index.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/ab92a42810e00c5aaf710de0a74efa10/image/small",19h30 China Women vs Colombia W (Khán Đài A) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/58022478367141609c0aee8af53800ff_480/index.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/ab92a42810e00c5aaf710de0a74efa10/image/small",19h30 China Women vs Colombia W (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/7d6cc5946cc862df91f5437a3e12ebc9/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/19d6673a9a8ed245efae7a833df59e79/image/small",19h30 Dinaz Vyshgorod vs Ahrobiznes TSK Romny (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -7431,6 +7371,18 @@ https://live4.fastestcdn-global.com/live4/abe6a1a6087f4e75a7b8a6aab42fa3c6_480/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/b24d34871a5dc93f641028425eca2b31/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/e29b2bc19ab76ec711e931394c125069/image/small",21h00 Argentino Rosario Women vs San Lorenzo Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/685e63844b8d3608e6f693b72ae0dad8/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/bd6437b994a3b12fdca49b1f46b010b2/image/small",21h00 Sogdiana Jizak vs Navbahor Namangan (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/d1a61db2cd878a6cb35b740f3c828d86/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/fa2a7c9972a394ed8bf087d9df04c3c2/image/small",21h00 Ural Yekaterinburg vs Volga Ulyanovsk (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/879fb9edaa06cc005943c270a86cfadc/playlist.m3u8
 
 #EXTGRP:KORKU💥ZOMBI
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="KORKU💥ZOMBI", 1. Night of the Living Dead (1968)
@@ -7625,36 +7577,6 @@ http://104.238.23.215/iptv_panel/get.php?channel=Channel8381&token=token123
 http://104.238.23.215/iptv_panel/get.php?channel=Channel8287&token=token123
 
 #EXTGRP:LƯƠNG SƠN
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165371351048.png?win007=sell",19h00 Beijing Guoan vs Wuhan Three Towns (LS) BLV HOA VINH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/LOELOE6380K.flv?expire=1892013720&sign=8f511e15e38eb664f3f436cc2521eb10
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165371351048.png?win007=sell",19h00 Beijing Guoan vs Wuhan Three Towns (LS) BLV HOA VINH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/LOELOE6380K/index.m3u8?expire=1892013720&sign=8f511e15e38eb664f3f436cc2521eb10
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165371351048.png?win007=sell",19h00 Beijing Guoan vs Wuhan Three Towns (LS) BLV KEVILL flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/KEVILL.flv?expire=1843660560&sign=c10b696ab4978fc4e5b85f2a2e842ab1
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165371351048.png?win007=sell",19h00 Beijing Guoan vs Wuhan Three Towns (LS) BLV KEVILL m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/KEVILL/index.m3u8?expire=1843660560&sign=c10b696ab4978fc4e5b85f2a2e842ab1
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165371351048.png?win007=sell",19h00 Beijing Guoan vs Wuhan Three Towns (LS) BLV KHỔNG MINH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/KHONGMINH.flv?expire=1844950380&sign=e8528dbbb8b06fd3cbee4d39493d123a
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165371351048.png?win007=sell",19h00 Beijing Guoan vs Wuhan Three Towns (LS) BLV KHỔNG MINH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/KHONGMINH/index.m3u8?expire=1844950380&sign=e8528dbbb8b06fd3cbee4d39493d123a
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165371351048.png?win007=sell",19h00 Beijing Guoan vs Wuhan Three Towns (LS) BLV NHỊ KA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/NHIKA1.flv?expire=1893162300&sign=8d891171b693962b26ed1e3528cdaf2a
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165371351048.png?win007=sell",19h00 Beijing Guoan vs Wuhan Three Towns (LS) BLV NHỊ KA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/NHIKA1/index.m3u8?expire=1893162300&sign=8d891171b693962b26ed1e3528cdaf2a
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165371351048.png?win007=sell",19h00 Beijing Guoan vs Wuhan Three Towns (LS) BLV TRIỆU TỬ LONG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/TRIEUTULONG.flv?expire=1861716660&sign=c987a13cb57bcf185dee0bcd3fa311d0
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165371351048.png?win007=sell",19h00 Beijing Guoan vs Wuhan Three Towns (LS) BLV TRIỆU TỬ LONG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/TRIEUTULONG/index.m3u8?expire=1861716660&sign=c987a13cb57bcf185dee0bcd3fa311d0
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="",19h30 BG College of Asian Scholars (W) vs Al-Nassr Riyadh (W) (LS) BLV GUMA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnokvip.com/live/GUMA.flv?expire=1891237320&sign=25b2eb2226ea9bf94dda7c8ec8abc96c
@@ -7733,60 +7655,35 @@ https://flv.cdnokvip.com/live/ZORO.flv?expire=1891756320&sign=f1ddd14e4e981f2742
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20205/1gr5z03jcv2h.png?win007=sell",20h00 Liverpool U21 vs Burnley U21 (LS) BLV ZORO m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/ZORO/index.m3u8?expire=1891756320&sign=f1ddd14e4e981f2742fe828bfbf48623
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165095556739.png?win007=sell",21h00 Ural Sverdlovsk Oblast vs Volga Ulyanovsk (LS) BLV KHỔNG MINH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnokvip.com/live/KHONGMINH.flv?expire=1844950380&sign=e8528dbbb8b06fd3cbee4d39493d123a
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165095556739.png?win007=sell",21h00 Ural Sverdlovsk Oblast vs Volga Ulyanovsk (LS) BLV KHỔNG MINH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/KHONGMINH/index.m3u8?expire=1844950380&sign=e8528dbbb8b06fd3cbee4d39493d123a
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165095556739.png?win007=sell",21h00 Ural Sverdlovsk Oblast vs Volga Ulyanovsk (LS) BLV LA THÀNH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnokvip.com/live/LATHANH.flv?expire=1872319740&sign=e35bda45d3755b86278ebbea44ff40e8
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165095556739.png?win007=sell",21h00 Ural Sverdlovsk Oblast vs Volga Ulyanovsk (LS) BLV LA THÀNH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/LATHANH/index.m3u8?expire=1872319740&sign=e35bda45d3755b86278ebbea44ff40e8
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165095556739.png?win007=sell",21h00 Ural Sverdlovsk Oblast vs Volga Ulyanovsk (LS) BLV LỮ BỐ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnokvip.com/live/LUBO.flv?expire=1873178820&sign=52912b68d1459d5ca99d18f21b5a8d33
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165095556739.png?win007=sell",21h00 Ural Sverdlovsk Oblast vs Volga Ulyanovsk (LS) BLV LỮ BỐ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/LUBO/index.m3u8?expire=1873178820&sign=52912b68d1459d5ca99d18f21b5a8d33
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165095556739.png?win007=sell",21h00 Ural Sverdlovsk Oblast vs Volga Ulyanovsk (LS) BLV NHỊ KA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnokvip.com/live/NHIKA1.flv?expire=1893162300&sign=8d891171b693962b26ed1e3528cdaf2a
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165095556739.png?win007=sell",21h00 Ural Sverdlovsk Oblast vs Volga Ulyanovsk (LS) BLV NHỊ KA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/NHIKA1/index.m3u8?expire=1893162300&sign=8d891171b693962b26ed1e3528cdaf2a
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165095556739.png?win007=sell",21h00 Ural Sverdlovsk Oblast vs Volga Ulyanovsk (LS) BLV TEST m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/TEST/index.m3u8?expire=1841039400&sign=96fcf5f00f6a32b0c59a452c3277c2dd
 
 #EXTGRP:LẤY KINH
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (LẤY KINH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@muhd1/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (LẤY KINH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/muhd2/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (LẤY KINH) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@musd1.flv
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (LẤY KINH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@musd1/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (LẤY KINH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/musd2/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (LẤY KINH) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@muhd1.flv
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (LẤY KINH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939170.vipcdnlive.xyz/live/natrahd2/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (LẤY KINH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (LẤY KINH) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1.flv
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (LẤY KINH) Nhà Đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m301nd/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (LẤY KINH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939170.vipcdnlive.xyz/live/natrasd2/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (LẤY KINH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (LẤY KINH) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1.flv
 #EXTINF:0 group-title="LẤY KINH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/College_of_Asian_Scholars_WFC_logo.png",19h30 BG College of Asian Scholars (W) vs Al-Nassr Riyadh (W) (LẤY KINH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -7925,58 +7822,6 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 https://ottcdn.kablowebtv.net/live_turksat_sub3/trtmuzik_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDEyOjE3OjQ4IFBNJmhhc2hfdmFsdWU9VnA1NFFzU0IwNEtMNGdtTVFndWJGdz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMg==
 
 #EXTGRP:QUAY TAY
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@muhd1/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/muhd2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@musd1.flv
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@musd1/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/musd2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@muhd1.flv
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939170.vipcdnlive.xyz/live/natrahd2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1.flv
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (QUAY TAY) Nhà Đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m301nd/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939170.vipcdnlive.xyz/live/natrasd2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1.flv
 #EXTINF:0 group-title="QUAY TAY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/College_of_Asian_Scholars_WFC_logo.png",19h30 BG College of Asian Scholars (W) vs Al-Nassr Riyadh (W) (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -8083,54 +7928,6 @@ https://179939170.vipcdnlive.xyz/live/momsd2/playlist.m3u8
 https://qtcdn.livestreameuro.live/live/momsd1.flv
 
 #EXTGRP:RA KHƠI
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@muhd1/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/muhd2/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (Ra Khơi) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@muhd1.flv
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@musd1/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/musd2/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan FC vs Wuhan Three Towns FC (Ra Khơi) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@musd1.flv
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/natrahd2/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (Ra Khơi) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1.flv
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/natrasd2/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
-#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Phnom_Penh_Crown_FC_Logo.png/250px-Phnom_Penh_Crown_FC_Logo.png",19h00 Phnom Penh Crown (W) vs East Bengal Club (W) (Ra Khơi) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1.flv
 #EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/13a68b3d30244592fd258a32411473e8.png",19h30 Naegohyang W vs Master 7 Women (Ra Khơi) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -8213,18 +8010,6 @@ https://qtcdn.livestreameuro.live/live/momsd1/playlist.m3u8
 https://qtcdn.livestreameuro.live/live/momsd1.flv
 
 #EXTGRP:RỔ BÓNG
-#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan vs Wuhan Three Towns (Rổ) FHD
-https://cr7.rbncdn.net/live/689c8ef189c203e20dd33199_ednm9wh73w57ryo_fhd/playlist.m3u8
-#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan vs Wuhan Three Towns (Rổ) FHD Nhanh
-https://rblive.starxcdn.xyz/live/689c8ef189c203e20dd33199_ednm9wh73w57ryo_fhd.flv
-#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan vs Wuhan Three Towns (Rổ) HD
-https://cr7.rbncdn.net/live/689c8ef189c203e20dd33199_ednm9wh73w57ryo_hd/playlist.m3u8
-#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan vs Wuhan Three Towns (Rổ) HD Nhanh
-https://rblive.starxcdn.xyz/live/689c8ef189c203e20dd33199_ednm9wh73w57ryo_hd.flv
-#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan vs Wuhan Three Towns (Rổ) SD
-https://cr7.rbncdn.net/live/689c8ef189c203e20dd33199_ednm9wh73w57ryo_sd/playlist.m3u8
-#EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/e7af298237651113dfeafc32ff734a24.png",19h00 Beijing Guoan vs Wuhan Three Towns (Rổ) SD Nhanh
-https://rblive.starxcdn.xyz/live/689c8ef189c203e20dd33199_ednm9wh73w57ryo_sd.flv
 #EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png",19h30 Vietnam (w) U16 vs Myanmar (w) U16 (Rổ) FHD
 https://cr7.rbncdn.net/live/689c7d152eeb894ab75a5340_2y8m4zh543wyql0_football_fhd/playlist.m3u8
 #EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png",19h30 Vietnam (w) U16 vs Myanmar (w) U16 (Rổ) FHD Nhanh
@@ -8251,30 +8036,6 @@ https://wtyi0525.edgemaxcdn.org/live/saoke3x1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke4x3/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4177_small.png",19:00 Beijing Guoan và Wuhan Three Towns (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x0y2/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4177_small.png",19:00 Beijing Guoan và Wuhan Three Towns (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x1y2/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4177_small.png",19:00 Beijing Guoan và Wuhan Three Towns (Sao kê) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x0y3-3301/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4177_small.png",19:00 Beijing Guoan và Wuhan Three Towns (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x0y1/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4177_small.png",19:00 Beijing Guoan và Wuhan Three Towns (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x1y1/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4177_small.png",19:00 Beijing Guoan và Wuhan Three Towns (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x1y3-2698/playlist.m3u8
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5822_small.png",19:30 China vs Colombia (Sao kê) HD 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -8351,6 +8112,14 @@ https://wtyi0525.edgemaxcdn.org/live/x7y3-3364/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://saoke.cdn.khmer-hd.com/x7y1/playlist.m3u8
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101752_small.png",22:00 Ghazl Al Mahalla và Al Ahly SC (Sao kê) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/saoke3x1/playlist.m3u8
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7870_small.png",22:00 Haka và SJK (Sao kê) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/saoke3x3/playlist.m3u8
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://png.pngtree.com/png-clipart/20190520/original/pngtree-green-tennis-green-round-tennis-round-png-image_3853415.jpg",22:00 Trực tiếp Tennis vs US Open 2025 (Sao kê) Nhà đài 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -8359,6 +8128,10 @@ https://wtyi0525.edgemaxcdn.org/live/saoke4x1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke4x2/playlist.m3u8
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/585662_small.png",22:00 ZED FC và Wadi Degla FC (Sao kê) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/saoke3x2/playlist.m3u8
 
 #EXTGRP:Sinema
 #EXTINF:-1 tvg-id="76" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/1883f1dfa1e69b6788849eaab4b1f8e7.png" tvg-name="BS ACTION 1" group-title="Sinema",BS ACTION 1
@@ -9969,14 +9742,6 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/tvnet_stream/index.m3u8?wmsAuthS
 https://ottcdn.kablowebtv.net/live_turksat_sub3/ulketv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDEyOjE3OjQ4IFBNJmhhc2hfdmFsdWU9VnA1NFFzU0IwNEtMNGdtTVFndWJGdz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMg==
 
 #EXTGRP:VĂN KHÁNH
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/165371351048.png?win007=sell",19h00 Beijing Guoan vs Wuhan Three Towns (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/VANREN.flv?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/165371351048.png?win007=sell",19h00 Beijing Guoan vs Wuhan Three Towns (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
 #EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="",19h30 BG College of Asian Scholars (W) vs Al-Nassr Riyadh (W) (Văn Khánh) FLV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -10001,6 +9766,14 @@ https://flv.cdnvankhanh.com/live/VANTAN.flv?expire=1890806880&sign=b5b5c2644d52f
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://hls.cdnvankhanh.com/live/VANTAN/index.m3u8?expire=1890806880&sign=b5b5c2644d52f49b7d09426daa30d2a5
+#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/165095556739.png?win007=sell",21h00 Ural Sverdlovsk Oblast vs Volga Ulyanovsk (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://flv.cdnvankhanh.com/live/VANVO.flv?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
+#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/165095556739.png?win007=sell",21h00 Ural Sverdlovsk Oblast vs Volga Ulyanovsk (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://hls.cdnvankhanh.com/live/VANVO/index.m3u8?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
 
 #EXTGRP:Yabancı
 #EXTINF:-1 tvg-id="142" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/655c2fee-0b87-48df-b41e-cb5c742807ad.png" group-title="Yabancı",Al Quran Al Kareem
