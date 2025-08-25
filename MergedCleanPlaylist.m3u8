@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged2_epg.xml.gz"
-# Last forced update: 2025-08-25T07:01:05.446045Z
+# Last forced update: 2025-08-25T07:34:08.623903Z
 
 #EXTGRP:1955 ⚡ 1969
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="1955 ⚡ 1969", 12 Kızgın Adam
@@ -6661,6 +6661,10 @@ https://tv.arectv34.sbs/live/yaban.m3u8
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 
 #EXTGRP:BÚN CHẢ
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="",14h00 ZhFC Astana (W) vs Zhetysu （w） 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/24dabf03ec45bec0cec3a32a89aafbb5/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/2a7eaccfbb46008900317ca65afa4c83.png",14h10 Li Shi Feng vs Yushi Tanaka [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -6757,6 +6761,10 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@caysd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/PL9H8RCYec_HJWZYamvhkA/Fv2lucGIbhPi2caWYvF5Lg/1756125607822/live/sd-6MvXMPLZEQLXtu6UCT/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="",14h00 ZhFC Astana (W) VS Zhetysu （w） (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/2jkfY-Lt6ZIiokq_Pa9Hng/Fv2lucGIbhPi2caWYvF5Lg/1756128306169/live/sd-6MvXML3Ms1sL3YniVy/playlist.m3u8
 
 #EXTGRP:Dini
 #EXTINF:-1 tvg-name="diyanettv" tvg-logo="https://i.ibb.co/k9phm3v/diyanettv.png" group-title="Dini",DİYANET TV
@@ -6768,18 +6776,6 @@ https://lbl.netmedya.net/hls/lalegultv.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/mt_0.m3u8
 
 #EXTGRP:GÀ VÀNG
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/e457fd8164559727d60ef8828ece3b9e/image/small",08h00 Atlas vs Club America (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/963c71c72a8e145a32528180bb20c710/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/b56545695ea72fc16dfeaac71f7cc0f8/image/small",08h00 Marquense vs Malacateco (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/94710a3a3dea2876c4b787f469b7ac89/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/208030ccc091a696d5a2d2d0b20dcfc0/image/small",08h00 Real Esteli vs Walter Ferretti (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/c40d4c50b82911fc314f9ffe2f45ba68/playlist.m3u8
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/47b3102d280afcf9fa7eb53945b274b8/image/small",08h30 Atletico Bucaramanga vs Aguilas Doradas (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -6840,6 +6836,10 @@ https://live.alilicloud.com/live/11e10a1db153c941103cc993881ad845/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/00008247f6320d254782ba6f7569a758/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/1e5076ea37537fda03fdb84224a03920/image/small",14h00 ZhFC Astana (W) vs Zhetysu （w） (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/24dabf03ec45bec0cec3a32a89aafbb5/playlist.m3u8
 
 #EXTGRP:Haber
 #EXTINF:-1 tvg-name="A Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="A Haber" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1c207549-826b-4c8e-8dd3-bbd488258430.png" group-title="Haber",A Haber
@@ -6912,18 +6912,6 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/ulusalkanal_stream/index.m3u8?wm
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 
 #EXTGRP:KHÁN ĐÀI A
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/b56545695ea72fc16dfeaac71f7cc0f8/image/small",08h00 Marquense vs Malacateco (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/94710a3a3dea2876c4b787f469b7ac89/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/208030ccc091a696d5a2d2d0b20dcfc0/image/small",08h00 Real Esteli vs Walter Ferretti (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c40d4c50b82911fc314f9ffe2f45ba68/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/64b49717310d4f3e8ff5738bb3a117b8/image/small",08h00 Seattle Sounders vs Sporting Kansas City (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/d7a06a11a647f46b3ecfb6de6aa2c236/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/47b3102d280afcf9fa7eb53945b274b8/image/small",08h30 Atletico Bucaramanga vs Aguilas Doradas (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -6984,6 +6972,10 @@ https://live.alilicloud.com/live/11e10a1db153c941103cc993881ad845/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/00008247f6320d254782ba6f7569a758/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/1e5076ea37537fda03fdb84224a03920/image/small",14h00 ZhFC Astana (W) vs Zhetysu （w） (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/24dabf03ec45bec0cec3a32a89aafbb5/playlist.m3u8
 
 #EXTGRP:KORKU💥ZOMBI
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="KORKU💥ZOMBI", 1. Night of the Living Dead (1968)
