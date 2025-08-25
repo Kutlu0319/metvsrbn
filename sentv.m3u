@@ -1125,7 +1125,7 @@ http://nocable.cc:8080////////////N2sdm7////////499994//////////53717
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/250px-Polsat_Sport_1_2024.svg.png", Polsat Sport 1 
 http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:11:4F:9F&stream=8475&extension=ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/1200px-Polsat_Sport_2_2024.svg.png", Polsat Sport 2
-
+http://filex.me:8080/live/drzain/002808/316240.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/250px-Polsat_Sport_3_2024.svg.png", Polsat Sport 3
 http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:AF:99:3B&stream=337610&extension=ts&play_token=nPwLYJfM57
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Polsat_Sport_Premium_3_PPV_2021_gradient.svg/500px-Polsat_Sport_Premium_3_PPV_2021_gradient.svg.png", Polsat Sport Premium 3 PPV
@@ -1133,7 +1133,7 @@ http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:AF:99:3B&stream=338218&extens
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Polsat_Sport_Premium_4_PPV_2021_gradient.svg/640px-Polsat_Sport_Premium_4_PPV_2021_gradient.svg.png", Polsat Sport Premium 4 PPV
 http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:AF:99:3B&stream=338219&extension=ts&play_token=5ODoVO17yk
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Polsat_Sport_Premium_5_PPV_Poziome_2021.svg/1024px-Polsat_Sport_Premium_5_PPV_Poziome_2021.svg.png", Polsat Sport Premium 5 PPV
-http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:AF:99:3B&stream=338220&extension=ts&play_token=5zyYNykzKV
+http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:AF:99:3B&stream=338220&extension=ts&play_token=VPejXG5jDQ
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Polsat_Sport_Premium_6_PPV_2021_gradient.svg/2560px-Polsat_Sport_Premium_6_PPV_2021_gradient.svg.png", Polsat Sport Premium 6 PPV
 http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:AF:99:3B&stream=338221&extension=ts&play_token=VPejXG5jDQ
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png", Max Sport 1 HD
@@ -3318,46 +3318,10 @@ https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-PTV-Phat_thanh_Phu_Tho
 #EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTVPlus-VOT-Phat_thanh_Thai_Nguyen" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TNTV%20-%20Ph%C3%A1t%20thanh%20Th%C3%A1i%20Nguy%C3%AAn.png",FM 106,5 • VOT - PT THÁI NGUYÊN
 https://radio.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:0 group-title="__THÔNG BÁO__",!!! Link XEM LẠI đã tách sang byvn.net/KHXg
-https://hello#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/a3316e9ee8fe7b3a279a10d61d0b2f87.png",09h00 Atlas vs Club America 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/963c71c72a8e145a32528180bb20c710/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/a3316e9ee8fe7b3a279a10d61d0b2f87.png",09h00 Atlas vs Club America [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/68abb0b32f363_6308/index.m3u8?expire=1756687155&sign=cc04b5d2abef3808caa2a5c2655e5a2b
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/a3316e9ee8fe7b3a279a10d61d0b2f87.png",09h00 Atlas vs Club America [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/68abb0b32f363_6308.flv?expire=1756687155&sign=cc04b5d2abef3808caa2a5c2655e5a2b
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/ca05b27dd2979a344914fd662c3471c7.png",10h00 Portland Timbers Reserve vs Tacoma Defiance 1 (Bc)
+https://hello#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/ca05b27dd2979a344914fd662c3471c7.png",10h00 Portland Timbers Reserve vs Tacoma Defiance 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/46c83e7b5817d08c38b34f738fe72b02/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/1140bbefe167a11333e182ba6db969e7.png",08h00 Atlas vs Club America (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@chuoisd1/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/1140bbefe167a11333e182ba6db969e7.png",08h00 Atlas vs Club America (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@chuoihd1/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/1140bbefe167a11333e182ba6db969e7.png",08h00 Atlas vs Club America (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/chuoisd2/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/1140bbefe167a11333e182ba6db969e7.png",08h00 Atlas vs Club America (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/chuoihd2/playlist.m3u8
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/1140bbefe167a11333e182ba6db969e7.png",08h00 Atlas vs Club America (CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chuoisd1.flv
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/1140bbefe167a11333e182ba6db969e7.png",08h00 Atlas vs Club America (CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chuoihd1.flv
 #EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/ca05b27dd2979a344914fd662c3471c7.png",10h00 Portland Timbers Reserve vs Tacoma Defiance (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -3486,30 +3450,6 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@caysd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cayhd1.flv
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/1140bbefe167a11333e182ba6db969e7.png",08h00 Atlas vs Club America (LẤY KINH) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chuoisd1.flv
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/1140bbefe167a11333e182ba6db969e7.png",08h00 Atlas vs Club America (LẤY KINH) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chuoihd1.flv
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/1140bbefe167a11333e182ba6db969e7.png",08h00 Atlas vs Club America (LẤY KINH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@chuoisd1/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/1140bbefe167a11333e182ba6db969e7.png",08h00 Atlas vs Club America (LẤY KINH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@chuoihd1/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/1140bbefe167a11333e182ba6db969e7.png",08h00 Atlas vs Club America (LẤY KINH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/1140bbefe167a11333e182ba6db969e7.png",08h00 Atlas vs Club America (LẤY KINH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
 #EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/ca05b27dd2979a344914fd662c3471c7.png",10h00 Portland Timbers Reserve vs Tacoma Defiance (LẤY KINH) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -3534,30 +3474,6 @@ https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20041230154046.gif?win007=sell",09h00 Atlas vs Club America (LS) BLV KAKA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/KAKA/index.m3u8?expire=1855830720&sign=41cc2d2b462e9337ea8b30b0bf6518e8
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20041230154046.gif?win007=sell",09h00 Atlas vs Club America (LS) BLV KAKA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/KAKA.flv?expire=1855830720&sign=41cc2d2b462e9337ea8b30b0bf6518e8
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20041230154046.gif?win007=sell",09h00 Atlas vs Club America (LS) BLV LƯU BỊ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/LUUBI/index.m3u8?expire=1861716660&sign=bb96616ccd027c7f67af3d6fcaef069a
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20041230154046.gif?win007=sell",09h00 Atlas vs Club America (LS) BLV LƯU BỊ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://flv.cdnokvip.com/live/LUUBI.flv?expire=1861716660&sign=bb96616ccd027c7f67af3d6fcaef069a
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20041230154046.gif?win007=sell",09h00 Atlas vs Club America (LS) BLV TỪ NINH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/TUNINH1/index.m3u8?expire=1891146780&sign=21db2bd274e66eaaae0e233d68ac0778
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20041230154046.gif?win007=sell",09h00 Atlas vs Club America (LS) BLV TỪ NINH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/TUNINH1.flv?expire=1891146780&sign=21db2bd274e66eaaae0e233d68ac0778
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20041230154046.gif?win007=sell",09h00 Atlas vs Club America (LS) BLV SONG NHI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/SONGNHI1/index.m3u8?expire=1893134940&sign=68e47bf8b701d38b162a1ff591bf58a2
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20041230154046.gif?win007=sell",09h00 Atlas vs Club America (LS) BLV SONG NHI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/SONGNHI1.flv?expire=1893134940&sign=68e47bf8b701d38b162a1ff591bf58a2
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20130921172639.gif?win007=sell",10h00 Portland Timbers Reserve vs Tacoma Defiance (LS) BLV TỐNG GIANG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/TONGGIANG/index.m3u8?expire=1856940180&sign=3ada34aa52306b4bf9e65bd887832e8d
@@ -3688,10 +3604,6 @@ https://wtyi0525.edgemaxcdn.org/live/saoke4x1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke4x2/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6577_small.png",09:00 Atlas và América (Sao kê) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke1x2/playlist.m3u8
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/614322_small.png",10:00 Portland Timbers II và Tacoma Defiance (Sao kê) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -3912,30 +3824,6 @@ https://live.alilicloud.com/live/08b12d673a504e4b1e763fdd4aa25826/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/26e632cca27f8768efb9734a55ef44f4/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/1140bbefe167a11333e182ba6db969e7.png",08h00 Atlas vs Club America (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chuoisd1.flv
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/1140bbefe167a11333e182ba6db969e7.png",08h00 Atlas vs Club America (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chuoihd1.flv
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/1140bbefe167a11333e182ba6db969e7.png",08h00 Atlas vs Club America (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@chuoisd1/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/1140bbefe167a11333e182ba6db969e7.png",08h00 Atlas vs Club America (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@chuoihd1/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/1140bbefe167a11333e182ba6db969e7.png",08h00 Atlas vs Club America (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/1140bbefe167a11333e182ba6db969e7.png",08h00 Atlas vs Club America (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
 #EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/ca05b27dd2979a344914fd662c3471c7.png",10h00 Portland Timbers Reserve vs Tacoma Defiance (QUAY TAY) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -4052,14 +3940,6 @@ https://live.alilicloud.com/live/08b12d673a504e4b1e763fdd4aa25826/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/26e632cca27f8768efb9734a55ef44f4/playlist.m3u8
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/20041230154046.gif?win007=sell",09h00 Atlas vs Club America (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/VANNGHE/index.m3u8?expire=1891583400&sign=c8b72b527f282608562e7ae96fc5fc85
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/20041230154046.gif?win007=sell",09h00 Atlas vs Club America (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/VANNGHE.flv?expire=1891583400&sign=c8b72b527f282608562e7ae96fc5fc85
 #EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/20130921172639.gif?win007=sell",10h00 Portland Timbers Reserve vs Tacoma Defiance (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -7897,7 +7777,7 @@ https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 https://hls.mskycdn.online/tv/fashionhd/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="Quốc tế",Clubbingtv
 https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
-# Last forced update: 2025-08-25T03:52:51.959602Z
+# Last forced update: 2025-08-25T04:15:32.072708Z
 #EXTINF:-1  tvg-name="13th Street DE" tvg-id="skyde/13thstreet" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/13th-street-de.png?raw=true" group-title="UDPTV Live Streams",13th Street DE
 https://ott.udptv.xyz/stream/skyde/13thstreet/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1  tvg-name="A2Z" tvg-id="A2z.ph" tvg-logo="https://i.imgur.com/3myn4zH.png" group-title="UDPTV Live Streams",A2Z
