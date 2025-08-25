@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged2_epg.xml.gz"
-# Last forced update: 2025-08-25T10:41:13.779004Z
+# Last forced update: 2025-08-25T10:50:57.840596Z
 
 #EXTGRP:1955 ⚡ 1969
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="1955 ⚡ 1969", 12 Kızgın Adam
@@ -6669,6 +6669,10 @@ https://2893950149.global.cdnfastest.com/live/68ac20995bab7_4439.flv?expire=1756
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/68ac20995bab7_4439/index.m3u8?expire=1756715801&sign=ce66a2a3d767f3e82eb1af820faab7bf
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/1b7b9df19717ad8b09e6d9a4740f281a.png",16h30 Ispe FC (w) vs Strykers FC W 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/22064d3f6e2cb5dd69a6a95ed8cd0444/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/ce420e1c7a8b93f3dfe28434e89a3e41.png",17h00 KSPO FC (w) vs Sejong Gumi Sportstoto (w) 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -6871,16 +6875,32 @@ https://ckhot-179939170.cdnfree.pro/live/bomsd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomsd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/a17724405028a3e21a2a2372736aa757.png",18h30 Lion City Sailors vs Hougang United FC (Cà Khịa) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lanhd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/a17724405028a3e21a2a2372736aa757.png",18h30 Lion City Sailors vs Hougang United FC (Cà Khịa) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/a17724405028a3e21a2a2372736aa757.png",18h30 Lion City Sailors vs Hougang United FC (Cà Khịa) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lanhd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/a17724405028a3e21a2a2372736aa757.png",18h30 Lion City Sailors vs Hougang United FC (Cà Khịa) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lansd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/a17724405028a3e21a2a2372736aa757.png",18h30 Lion City Sailors vs Hougang United FC (Cà Khịa) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/a17724405028a3e21a2a2372736aa757.png",18h30 Lion City Sailors vs Hougang United FC (Cà Khịa) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lansd1.flv
 
 #EXTGRP:CÁ KÈO
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/4a64d3cdd64dea1d2a3a7a81befce763.png",15h45 Lion City Sailors (w) VS 6 Yard Etihad (W) (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/TtZhoOdy0or3CFFAEdaBGA/Fv2lucGIbhPi2caWYvF5Lg/1756133405433/live/sd-6MuTchDCZhv33woXrj/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/4a64d3cdd64dea1d2a3a7a81befce763.png",15h45 Lion City Sailors (w) VS 6 Yard Etihad (W) (CK) Backup 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/E511SGuKtUUAfZTcu8pQfw/Fv2lucGIbhPi2caWYvF5Lg/1756133405433/live/hd-en-6MuTchDCZhv33woXrj/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/ffbed3f08e379e5d77277e44ab151d45.png",16h00 Kaohsiung Attackers(w) VS RTC FC (W) (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -6893,10 +6913,6 @@ https://apisportzz179528093.nsnd.live/XOpNre84POxgXC_sD1Fw3w/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/vCPIxiEpIJX-f7Y1aifjTw/Fv2lucGIbhPi2caWYvF5Lg/1756137609754/live/sd-6MuTcduENTa4c6xemR/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/cc35fb970f1464e1468bafebb54a2ca6.png",17h00 Gyeongju FC (w) VS Boeun Sangmu (w) (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/b2CQR1urjDcV0mlGAvRTMg/Fv2lucGIbhPi2caWYvF5Lg/1756137610104/live/sd-6MuRsjYMcKV2C9w9md/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/ce420e1c7a8b93f3dfe28434e89a3e41.png",17h00 KSPO FC (w) VS Sejong Gumi Sportstoto (w) (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -6917,15 +6933,6 @@ https://apisportzz179528093.nsnd.live/oKD95mCErD1x2ROD760YyQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/HpiRFjLeg61UA4h699hRvg/Fv2lucGIbhPi2caWYvF5Lg/1756139105374/live/sd-6MvXMSdmwSPL5HB1By/playlist.m3u8
-
-#EXTGRP:Dini
-#EXTINF:-1 tvg-name="diyanettv" tvg-logo="https://i.ibb.co/k9phm3v/diyanettv.png" group-title="Dini",DİYANET TV
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/mt_0.m3u8
-#EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_LalegulTV" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/8322c403-9f7c-4b5a-aef1-7c65e56ee8a6.png" group-title="Dini",Lalegül TV
-https://lbl.netmedya.net/hls/lalegultv.m3u8
-#EXTINF:-1 tvg-name="SEMERKAND TV" tvg-logo="https://www.semerkandtv.com.tr/Content/img/logo.png" group-title="Dini",SEMERKAND TV
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/mt_0.m3u8
 
 #EXTGRP:GÀ VÀNG
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/volleyball/team/76a8fc15d25f867a99b7d3c4d79ae393/image/small",13h00 Brazil U21 vs Cuba U21 (Gà Vàng) source
@@ -7610,54 +7617,6 @@ https://flv.cdnokvip.com/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4da
 https://hls.cdnokvip.com/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 
 #EXTGRP:LẤY KINH
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/4a64d3cdd64dea1d2a3a7a81befce763.png",15h45 6 Yard Etihad (W) vs Lion City Sailors (w) (LẤY KINH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@luluhd1/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/4a64d3cdd64dea1d2a3a7a81befce763.png",15h45 6 Yard Etihad (W) vs Lion City Sailors (w) (LẤY KINH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/4a64d3cdd64dea1d2a3a7a81befce763.png",15h45 6 Yard Etihad (W) vs Lion City Sailors (w) (LẤY KINH) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@luluhd1.flv
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/4a64d3cdd64dea1d2a3a7a81befce763.png",15h45 6 Yard Etihad (W) vs Lion City Sailors (w) (LẤY KINH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lulusd1/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/4a64d3cdd64dea1d2a3a7a81befce763.png",15h45 6 Yard Etihad (W) vs Lion City Sailors (w) (LẤY KINH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/4a64d3cdd64dea1d2a3a7a81befce763.png",15h45 6 Yard Etihad (W) vs Lion City Sailors (w) (LẤY KINH) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lulusd1.flv
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/56b946dc762d3c3956a3fdc48cb0f0fa.png",16h00 Dominican Republic (w) vs Mexico (w) (LẤY KINH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@maohd1/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/56b946dc762d3c3956a3fdc48cb0f0fa.png",16h00 Dominican Republic (w) vs Mexico (w) (LẤY KINH) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maohd1.flv
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/56b946dc762d3c3956a3fdc48cb0f0fa.png",16h00 Dominican Republic (w) vs Mexico (w) (LẤY KINH) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/maohd2/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/56b946dc762d3c3956a3fdc48cb0f0fa.png",16h00 Dominican Republic (w) vs Mexico (w) (LẤY KINH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@maosd1/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/56b946dc762d3c3956a3fdc48cb0f0fa.png",16h00 Dominican Republic (w) vs Mexico (w) (LẤY KINH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/maosd2/playlist.m3u8
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/56b946dc762d3c3956a3fdc48cb0f0fa.png",16h00 Dominican Republic (w) vs Mexico (w) (LẤY KINH) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maosd1.flv
 #EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/44f2247548b906b650095f7382be363d.png",16h00 Kaohsiung Sunny Bank (w) vs Royal Thimphu College (W) (LẤY KINH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -7790,6 +7749,30 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m403nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m401nd/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/a17724405028a3e21a2a2372736aa757.png",18h30 Lion City Sailors vs Hougang United FC (LẤY KINH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lanhd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/a17724405028a3e21a2a2372736aa757.png",18h30 Lion City Sailors vs Hougang United FC (LẤY KINH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/a17724405028a3e21a2a2372736aa757.png",18h30 Lion City Sailors vs Hougang United FC (LẤY KINH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lanhd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/a17724405028a3e21a2a2372736aa757.png",18h30 Lion City Sailors vs Hougang United FC (LẤY KINH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lansd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/a17724405028a3e21a2a2372736aa757.png",18h30 Lion City Sailors vs Hougang United FC (LẤY KINH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/a17724405028a3e21a2a2372736aa757.png",18h30 Lion City Sailors vs Hougang United FC (LẤY KINH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lansd1.flv
 
 #EXTGRP:Müzik
 #EXTINF:-1 tvg-id="146" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/63d6800d-1ecb-40b6-bc2b-01a225f0d3ec.png" group-title="Müzik",Dream Türk
@@ -8004,6 +7987,30 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m403nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m401nd/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/a17724405028a3e21a2a2372736aa757.png",18h30 Lion City Sailors vs Hougang United FC (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lanhd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/a17724405028a3e21a2a2372736aa757.png",18h30 Lion City Sailors vs Hougang United FC (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/a17724405028a3e21a2a2372736aa757.png",18h30 Lion City Sailors vs Hougang United FC (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lanhd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/a17724405028a3e21a2a2372736aa757.png",18h30 Lion City Sailors vs Hougang United FC (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lansd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/a17724405028a3e21a2a2372736aa757.png",18h30 Lion City Sailors vs Hougang United FC (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/a17724405028a3e21a2a2372736aa757.png",18h30 Lion City Sailors vs Hougang United FC (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lansd1.flv
 
 #EXTGRP:RA KHƠI
 #EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/4a64d3cdd64dea1d2a3a7a81befce763.png",15h45 6 Yard Etihad (W) vs Lion City Sailors (w) (Ra Khơi) HD 1
@@ -8158,6 +8165,30 @@ https://ckhot-179939170.cdnfree.pro/live/bomsd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomsd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/a17724405028a3e21a2a2372736aa757.png",18h30 Lion City Sailors vs Hougang United FC (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lanhd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/a17724405028a3e21a2a2372736aa757.png",18h30 Lion City Sailors vs Hougang United FC (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/a17724405028a3e21a2a2372736aa757.png",18h30 Lion City Sailors vs Hougang United FC (Ra Khơi) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lanhd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/a17724405028a3e21a2a2372736aa757.png",18h30 Lion City Sailors vs Hougang United FC (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lansd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/a17724405028a3e21a2a2372736aa757.png",18h30 Lion City Sailors vs Hougang United FC (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/a17724405028a3e21a2a2372736aa757.png",18h30 Lion City Sailors vs Hougang United FC (Ra Khơi) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lansd1.flv
 
 #EXTGRP:SAO KÊ
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://aocaulongthietke.com/wp-content/uploads/2022/10/Mau-logo-doi-club-cau-lac-bo-cau-long-thiet-ke-dep-1-400x400.png",14:00 Giải Cầu lông vs Vô địch Thế giới (Sao kê) SÂN 1
@@ -9866,14 +9897,6 @@ https://flv.cdnvankhanh.com/live/VANVOI.flv?expire=1892616120&sign=e1a63bd0d6c0a
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://hls.cdnvankhanh.com/live/VANVOI/index.m3u8?expire=1892616120&sign=e1a63bd0d6c0ae487212cdaf5617d073
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/20200322172925.gif?win007=sell",17h00 Gyeongju FC (W) vs Boeun Sangmu (W) (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/VANMILAN.flv?expire=1892616120&sign=a4103cfb6e6a1371923d317a9442db9b
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/20200322172925.gif?win007=sell",17h00 Gyeongju FC (W) vs Boeun Sangmu (W) (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/VANMILAN/index.m3u8?expire=1892616120&sign=a4103cfb6e6a1371923d317a9442db9b
 #EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/201332443306.jpg?win007=sell",17h00 KSPO FC (W) vs Sejong Gumi Sportstoto (W) (Văn Khánh) FLV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -9962,8 +9985,6 @@ https://kerimmkirac-dproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/35832308
 https://ottcdn.kablowebtv.net/live_turksat_sub3/classical_harmony_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDEwOjExOjM5IEFNJmhhc2hfdmFsdWU9Y0JrREN1NlVIM093Q1daR09QbHV3dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMg==
 #EXTINF:-1 tvg-name="Classical Harmony" tvg-id="Classical Harmony" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/d8abc330-f38a-4a81-b555-c5fef692f63e.png" group-title="Yaşam & Eğlence",Classical Harmony
 https://ottcdn.kablowebtv.net/live_turksat_sub3/classical_harmony_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDEwOjExOjM5IEFNJmhhc2hfdmFsdWU9Y0JrREN1NlVIM093Q1daR09QbHV3dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMg==
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://www.modelingportfoliosnyc.com/wp-content/uploads/2019/05/03Nh_t0G_400x400.png" group-title="Yaşam & Eğlence",FASHION ONE
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/0ae3cc600b74755cd008b1695c274f3c.png" tvg-name="FASHION TV" group-title="Yaşam & Eğlence",FASHION TV [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
@@ -9972,8 +9993,6 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEim2Z3fOlbld89c9io-_JBadvCDwXkKIbFTRoV_6Y1Om8_OfG_w3zRw1AfnpU9Jh5X004puoh2zWzztMDivyCCegO7--45QP61dwfuk7xqgVS3CKO5LB_BmehXV6-fb-Uf2GALd3fdI9os7DavgKF1oF3TGON1RLqrsA4MkBWKsBFtpRX_B9OZysZpnGqU=s250" group-title="Yaşam & Eğlence",FORTUNA TV
-https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="122" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/2408078f-52c8-45bd-8bd7-30d8c2dcbb96.png" group-title="Yaşam & Eğlence",Kitchen TV
 https://ottcdn.kablowebtv.net/live_turksat_sub3/kitchentv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDEwOjExOjM5IEFNJmhhc2hfdmFsdWU9Y0JrREN1NlVIM093Q1daR09QbHV3dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMg==
 #EXTINF:-1 tvg-name="Kitchen TV" tvg-id="Kitchen TV" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/2408078f-52c8-45bd-8bd7-30d8c2dcbb96.png" group-title="Yaşam & Eğlence",Kitchen TV
@@ -9986,9 +10005,6 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/mezzohd_stream/index.m3u8?wmsAut
 https://ottcdn.kablowebtv.net/live_turksat_sub3/myzen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDEwOjExOjM5IEFNJmhhc2hfdmFsdWU9Y0JrREN1NlVIM093Q1daR09QbHV3dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMg==
 #EXTINF:-1 tvg-name="Myzen Tv" tvg-id="Myzen Tv" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d8dfa223-6fd9-4780-9b5a-3e3fe87454ad.png" group-title="Yaşam & Eğlence",Myzen Tv
 https://ottcdn.kablowebtv.net/live_turksat_sub3/myzen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDEwOjExOjM5IEFNJmhhc2hfdmFsdWU9Y0JrREN1NlVIM093Q1daR09QbHV3dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMg==
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="Yaşam & Eğlence",WOMAN TV
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 
 #EXTGRP:Çocuk
 #EXTINF:-1 tvg-name="Azoomee" tvg-id="Azoomee"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1cc6ebf5-4e01-407d-8a88-94dcdf2d5ddd.png" group-title="Çocuk",Azoomee
